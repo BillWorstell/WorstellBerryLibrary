@@ -1,7 +1,6 @@
 # The Cartoon History of the Universe II (Volumes 8–13)
 
 **Library tag:** BC01-S02-019 • **Author:** Larry Gonick • **Series:** *The Cartoon History of the Universe*
-![Cover](../images/20251025_101107.jpg)
 
 ## Quick pitch — why read this
 
