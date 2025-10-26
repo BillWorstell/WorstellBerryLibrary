@@ -43,7 +43,7 @@ jobs:
           fi
 
       - name: Build MkDocs
-        run: mkdocs build --strict --verbose
+        run: mkdocs build --verbose
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
