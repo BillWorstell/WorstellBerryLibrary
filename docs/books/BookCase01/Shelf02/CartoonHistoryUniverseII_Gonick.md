@@ -45,7 +45,6 @@ The *Cartoon History* books have been widely adopted in classrooms and libraries
 * **ISBN:** *tbd from verso*
 * **Size (approx):** 276 × 216 × 25 mm
 * **Condition:** Good; light edge/corner wear (oversize pb)
-  ![Verso/CIP](../images/20251025_100947.jpg)
 
 ## UDC subject tags (for cross-shelf search)
 
