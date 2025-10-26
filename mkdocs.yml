@@ -3,7 +3,7 @@ site_description: A personal, searchable catalog of the Worstell/Berry home libr
 docs_dir: docs
 theme:
   name: material
-  
+
 # Turn off “warnings as errors”
 # strict: false
 # Turn on “warnings as errors”
@@ -13,6 +13,10 @@ strict: true
 # repo_url: https://github.com/<YOUR_GITHUB_USERNAME>/WorstellBerryLibrary
 # repo_name: WorstellBerryLibrary
 
+# (optional) search plugin is fine
+plugins:
+  - search
+  
 nav:
   - Home: index.md                    # (docs/index.md). Keep or replace with your own landing page.
 
