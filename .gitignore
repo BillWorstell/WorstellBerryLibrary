@@ -1,0 +1,6 @@
+# MkDocs
+site/
+# Editor & OS cruft
+.DS_Store
+Thumbs.db
+*.log

@@ -1,0 +1,58 @@
+site_name: WorstellBerryLibrary
+site_description: A personal, searchable catalog of the Worstell/Berry home library.
+docs_dir: docs
+theme:
+  name: material
+
+# If/when you publish to GitHub, you can uncomment & fill these:
+# repo_url: https://github.com/<YOUR_GITHUB_USERNAME>/WorstellBerryLibrary
+# repo_name: WorstellBerryLibrary
+
+nav:
+  - Home: index.md                    # (docs/index.md). Keep or replace with your own landing page.
+
+  - BookCase 01:
+      - Index: books/BookCase01/Shelf01/index.md
+      - Shelf 1 (top shelf):
+          - Index: books/BookCase01/Shelf01/index.md
+          - ReadMe: books/BookCase01/Shelf01/ReadMe.md
+          - Age of Reform (Hofstadter): books/BookCase01/Shelf01/AgeOfReform_Hofstadter.md
+          - American Sphinx (Ellis): books/BookCase01/Shelf01/AmericanSphinx_Ellis.md
+          - Big Burn (Egan): books/BookCase01/Shelf01/BigBurn_Egan.md
+          - Camelot’s Court (Dallek): books/BookCase01/Shelf01/CamelotsCourt_Dallek.md
+          - Conspiracy of Pontiac (Parkman): books/BookCase01/Shelf01/ConspiracyOfPontiac_Parkman.md
+          - Declaration of Independence: books/BookCase01/Shelf01/DeclarationOfIndependence.md
+          - Elizabeth Cady Stanton: books/BookCase01/Shelf01/ElizabethCadyStanton.md
+          - Freedom From Fear (Kennedy): books/BookCase01/Shelf01/FreedomFromFear_Kennedy.md
+          - Great Wagon Road (Rouse): books/BookCase01/Shelf01/GreatWagonRoad.md
+          - Hiroshima to Glasnost (Nitze): books/BookCase01/Shelf01/HiroshimaToGlasnost_Nitze.md
+          - John Adams (McCullough): books/BookCase01/Shelf01/JohnAdams_McCullough.md
+          - Journals of Lewis & Clark: books/BookCase01/Shelf01/LewisAndClarkJournals.md
+          - River of Doubt (Millard): books/BookCase01/Shelf01/RiverOfDoubt_TheodoreRoosevelt.md
+          - Sacagawea: books/BookCase01/Shelf01/Sacagawea.md
+          - Undaunted Courage (Ambrose): books/BookCase01/Shelf01/UndauntedCourage_Ambrose.md
+          - We Are Lincoln Men: books/BookCase01/Shelf01/WeAreLincolnMen.md
+          - Worst Hard Time (Egan): books/BookCase01/Shelf01/WorstHardTime_Egan.md
+
+      - Shelf 2:
+          - Index: books/BookCase01/Shelf02/index.md
+          - Age of Wonder (Holmes): books/BookCase01/Shelf02/AgeOfWonder_Holmes.md
+          - A History of the Modern World (Palmer/Colton): books/BookCase01/Shelf02/HistoryOfTheModernWorld_PalmerColton.md
+          - Bible and Sword (Tuchman): books/BookCase01/Shelf02/BibleAndSword_Tuchman.md
+          - Cartoon History of the Modern World, Part 1 (Gonick): books/BookCase01/Shelf02/CartoonHistoryModernWorld_Part1_Gonick.md
+          - Cartoon History of the Universe, Vols. 1–7 (Gonick): books/BookCase01/Shelf02/CartoonHistoryOfTheUniverse_Vols1-7_Gonick.md
+          - Cartoon History “Universe II” (Gonick): books/BookCase01/Shelf02/CartoonHistoryUniverseII_Gonick.md
+          - Crusade in Europe (Eisenhower): books/BookCase01/Shelf02/CrusadeInEurope_Eisenhower.md
+          - Dangerous Thoughts (Orlov): books/BookCase01/Shelf02/DangerousThoughts_Orlov.md
+          - Distant Mirror (Tuchman): books/BookCase01/Shelf02/DistantMirror.md
+          - Egyptian Museum: books/BookCase01/Shelf02/EgyptianMuseum.md
+          - From Beirut to Jerusalem (Friedman): books/BookCase01/Shelf02/FromBeirutToJerusalem_Friedman.md
+          - Guns of August (Tuchman): books/BookCase01/Shelf02/GunsOfAugust_Tuchman.md
+          - Israel — A History (Gilbert): books/BookCase01/Shelf02/Israel_AHistory_Gilbert.md
+          - Jerusalem 1913 (Marcus): books/BookCase01/Shelf02/Jerusalem1913_Marcus.md
+          - Monarchy Transformed (Kishlansky): books/BookCase01/Shelf02/MonarchyTransformed_Kishlansky.md
+          - Nimrud Ivories (Mallowan): books/BookCase01/Shelf02/NimrudIvories.md
+          - Provenance — Yuri Orlov: books/BookCase01/Shelf02/Provenance_Orlov.md
+          - Russia — A Concise History (Hingley): books/BookCase01/Shelf02/Russia_A_Concise_History_Hingley.md
+          - Russo-German War (Seaton): books/BookCase01/Shelf02/RussoGermanWar_Seaton.md
+          - The Ultra Secret (Winterbotham): books/BookCase01/Shelf02/UltraSecret_Winterbotham.md

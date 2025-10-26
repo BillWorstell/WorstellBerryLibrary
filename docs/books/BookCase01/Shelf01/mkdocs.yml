@@ -1,0 +1,40 @@
+site_name: Home Library
+theme: material
+nav:
+  - Home: index.md
+  - Bookcase 01:
+    - Shelf 1:
+      - The Declaration of Independence : DeclarationOfIndependence.md
+      - John Adams : JohnAdams_McCullough.md
+      - American Sphinx: AmericanSphinx_Ellis.md
+      - Undaunted Courage: AmericanSphinx_Ellis.md
+      - The Great Wagon Road: GreatWagonRoad.md
+      - The Journals of Lewis and Clark: LewisAndClarkJournals.md
+      - Sacagawea of the Lewis & Clark Expedition: Sacagawea.md
+      - The Conspiracy of Pontiac (Vol. 1): ConspiracyOfPontiac_Parkman.md
+      - We Are Lincoln Men: WeAreLincolnMen.md
+      - Elizabeth Cady Stanton: ElizabethCadyStanton.md
+      - The River of Doubt: RiverOfDoubt_TheodoreRoosevelt.md
+      - The Age of Reform: AgeOfReform_Hofstadter.md
+      - The Big Burn: BigBurn_Egan.md
+      - The Worst Hard Time: WorstHardTime_Egan.md
+      - Freedom From Fear: FreedomFromFear_Kennedy.md
+      - From Hiroshima to Glasnost: HiroshimaToGlasnost_Nitze.md)
+      - Camelot’s Court: CamelotsCourt_Dallek.md
+- **BC01-S01-001** — **[The Declaration of Independence — Selections from the Bible](./DeclarationOfIndependence.md)** · Great Books Foundation (Regnery), Chicago
+- **BC01-S01-002** — **[John Adams](./JohnAdams_McCullough.md)** · David McCullough
+- **BC01-S01-003** — **[American Sphinx: The Character of Thomas Jefferson](./AmericanSphinx_Ellis.md)** · Joseph J. Ellis
+- **BC01-S01-004** — **[Undaunted Courage: Meriwether Lewis, Thomas Jefferson, and the Opening of the American West](./UndauntedCourage_Ambrose.md)** · Stephen E. Ambrose
+- **BC01-S01-005** — **[The Great Wagon Road: From Philadelphia to the South](./GreatWagonRoad.md)** · Parke Rouse, Jr.
+- **BC01-S01-006** — **[The Journals of Lewis and Clark](./LewisAndClarkJournals.md)** · ed. Bernard DeVoto
+- **BC01-S01-007** — **[Sacagawea of the Lewis & Clark Expedition](./Sacagawea.md)** · Ella E. Clark & Margot Edmonds
+- **BC01-S01-008** — **[The Conspiracy of Pontiac (Vol. 1)](./ConspiracyOfPontiac_Parkman.md)** · Francis Parkman
+- **BC01-S01-009** — **[We Are Lincoln Men: Abraham Lincoln and His Friends](./WeAreLincolnMen.md)** · David Herbert Donald
+- **BC01-S01-010** — **[Elizabeth Cady Stanton, Feminist as Thinker: A Reader in Documents and Essays](./ElizabethCadyStanton.md)** · eds. Ellen Carol DuBois & Richard Candida Smith
+- **BC01-S01-011** — **[The River of Doubt: Theodore Roosevelt’s Darkest Journey](./RiverOfDoubt_TheodoreRoosevelt.md)** · Candice Millard
+- **BC01-S01-012** — **[The Age of Reform](./AgeOfReform_Hofstadter.md)** · Richard Hofstadter
+- **BC01-S01-013** — **[The Big Burn: Teddy Roosevelt & the Fire That Saved America](./BigBurn_Egan.md)** · Timothy Egan
+- **BC01-S01-014** — **[The Worst Hard Time: The Untold Story of Those Who Survived the Great American Dust Bowl](./WorstHardTime_Egan.md)** · Timothy Egan
+- **BC01-S01-015** — **[Freedom From Fear: The American People in Depression and War, 1929–1945](./FreedomFromFear_Kennedy.md)** · David M. Kennedy
+- **BC01-S01-016** — **[From Hiroshima to Glasnost: At the Center of Decision — A Memoir](./HiroshimaToGlasnost_Nitze.md)** · Paul H. Nitze (with Ann M. Smith & Steven L. Rearden)
+- **BC01-S01-017** — **[Camelot’s Court: Inside the Kennedy White House](./CamelotsCourt_Dallek.md)** · Robert Dallek
