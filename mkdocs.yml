@@ -56,3 +56,5 @@ nav:
           - Russia — A Concise History (Hingley): books/BookCase01/Shelf02/Russia_A_Concise_History_Hingley.md
           - Russo-German War (Seaton): books/BookCase01/Shelf02/RussoGermanWar_Seaton.md
           - The Ultra Secret (Winterbotham): books/BookCase01/Shelf02/UltraSecret_Winterbotham.md
+
+run: mkdocs build --verbose
