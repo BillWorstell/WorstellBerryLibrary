@@ -37,6 +37,7 @@ nav:
       - Shelf 2:
           - Index: books/BookCase01/Shelf02/index.md
           - Age of Wonder (Holmes): books/BookCase01/Shelf02/AgeOfWonder_Holmes.md
+          - Ancient Times (Breasted): books/BookCase01/Shelf02/AncientTimes_Breasted.md
           - A History of the Modern World (Palmer/Colton): books/BookCase01/Shelf02/HistoryOfTheModernWorld_PalmerColton.md
           - Bible and Sword (Tuchman): books/BookCase01/Shelf02/BibleAndSword_Tuchman.md
           - Cartoon History of the Modern World, Part 1 (Gonick): books/BookCase01/Shelf02/CartoonHistoryModernWorld_Part1_Gonick.md
