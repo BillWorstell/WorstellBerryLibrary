@@ -3,6 +3,11 @@ site_description: A personal, searchable catalog of the Worstell/Berry home libr
 docs_dir: docs
 theme:
   name: material
+  
+# Turn off “warnings as errors”
+# strict: false
+# Turn on “warnings as errors”
+strict: true
 
 # If/when you publish to GitHub, you can uncomment & fill these:
 # repo_url: https://github.com/<YOUR_GITHUB_USERNAME>/WorstellBerryLibrary
