@@ -52,16 +52,14 @@ Rouse reconstructs the **route, way stations, and communities** along the Great 
 2. War among the Iroquois — 11
 
 **BOOK TWO — The Philadelphia Wagon Road**
-3. Enter the Scotch-Irish — 19  
-4. A Moravian Journey to Carolina — 21  
-5. Along the Way South — 29  
-6. Mapping the Great Mountains — 37  
-7. Bethabara and New Salem — 43  
-8. The Threat from the French — 53  
-9. Life in the Appalachians — 65  
-10. *(title as printed in your copy)* — 73  
-11. *(title as printed in your copy)* — 83  
-12. *(title as printed in your copy)* — 93
+3. Germans in Pennsylvania — 21  
+4. Enter the Scotch-Irish - 29
+4. A Moravian Journey to Carolina — 37  
+5. Along the Way South — 43  
+6. Mapping the Great Mountains — 65  
+7. Bethabara and New Salem — 73  
+8. The Threat from the French — 83  
+9. Life in the Appalachians — 93  
 
 **BOOK THREE — The Wilderness Trail**
 13. The Great Wagon Road Turns West — 103  
