@@ -44,8 +44,21 @@ Thomas Jefferson can feel remote: philosopher, revolutionary, slaveholder, presi
 ### What it’s about (concise overview)
 Rather than a cradle-to-grave chronicle, this is a **character study** built around decisive moments: the Declaration, Paris and the ambassadorial years, the first party system, the presidency, and retirement at Monticello. Ellis emphasizes Jefferson’s idealism and rhetorical brilliance, his talent for avoiding open conflict, and the gap between universal principles and enslaved reality at home. The through-line is paradox: a statesman who distrusted power, a public visionary who practiced private compartmentalization, an optimist who presided over war fears and partisan rancor.
 
-### Table of contents (if readily available)
-TBD
+---
+
+## Table of contents
+![Table of contents — *American Sphinx* (Ellis)](AmericanSphinx_Ellis.jpg)
+
+> If the image isn’t visible yet, run:
+> `Add-TocImage -Slug 'AmericanSphinx_Ellis' -ShelfPath 'docs/books/BookCase01/Shelf01'`
+
+## Related volumes on this shelf
+- [Declaration of Independence](DeclarationOfIndependence.md)
+- [John Adams (McCullough)](JohnAdams_McCullough.md)
+- [Undaunted Courage (Ambrose)](UndauntedCourage_Ambrose.md)
+
+[← Back to Shelf 01 index](index.md)
+
 
 ### Author & perspective
 Joseph J. Ellis is a historian of the American founding known for accessible prose and close reading of correspondence. His stance here is **interpretive** more than documentary—he weighs testimony, context, and Jefferson’s own strategic silences to assess motives and temperament. The book neither prosecutes nor excuses; it frames Jefferson as a man of ideals and evasions, letting tensions stand where evidence is inconclusive.
