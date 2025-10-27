@@ -3,7 +3,7 @@
 *Location:* `BookCase01 / Shelf01`  
 *Scope:* Reference-heavy U.S. history, exploration, biography, and related works.
 
-![Shelf photo](Shelf0.jpg)
+![Shelf photo](Shelf1.jpg)
 
 ---
 
