@@ -48,10 +48,12 @@ Rouse reconstructs the **route, way stations, and communities** along the Great 
 - **Prologue** — *ix*
 
 **BOOK ONE — The Appalachian Warrior’s Path**
+
 1. The Search for Eldorado — 1  
 2. War among the Iroquois — 11
 
 **BOOK TWO — The Philadelphia Wagon Road**
+
 3. Germans in Pennsylvania — 21  
 4. Enter the Scotch-Irish - 29
 4. A Moravian Journey to Carolina — 37  
@@ -62,11 +64,13 @@ Rouse reconstructs the **route, way stations, and communities** along the Great 
 9. Life in the Appalachians — 93  
 
 **BOOK THREE — The Wilderness Trail**
+
 13. The Great Wagon Road Turns West — 103  
 14. The Siege of Castle’s Woods — 119  
 15. Apostle of the Frontier — 127
 
 **BOOK FOUR — A Frontier in Danger**
+
 16. Andrew Jackson, of the Waxhaws — 135  
 17. The Exodus of the Quakers — 137  
 18. Conestoga’s Gift — 145  
@@ -76,6 +80,7 @@ Rouse reconstructs the **route, way stations, and communities** along the Great 
 22. Tuckahoe versus Cohee — 183
 
 **BOOK FIVE — Division and Reunion**
+
 23. Stagecoaches and Turnpikes — 211  
 24. Great Days of the Horse — 213  
 25. The Cherokees Go West — 225  
@@ -84,6 +89,7 @@ Rouse reconstructs the **route, way stations, and communities** along the Great 
 28. A Road Is Reunited — 249
 
 **Back matter**
+
 - Epilogue — 265  
 - Acknowledgements — 269  
 - Bibliography — 271  
