@@ -15,8 +15,8 @@
 - **S01-003 —** [American Sphinx (Ellis)](AmericanSphinx_Ellis.md)
 
 ### S01-004 … S01-008
-- **S01-004 —** [Undaunted Courage (Ambrose)](UndauntedCourage_Ambrose.md)
-- **S01-005 —** [Great Wagon Road (Rouse)](GreatWagonRoad.md)
+- **S01-004 —** [Great Wagon Road (Rouse)](GreatWagonRoad.md)
+- **S01-005 —** [Undaunted Courage (Ambrose)](UndauntedCourage_Ambrose.md)
 - **S01-006 —** [Journals of Lewis & Clark](LewisAndClarkJournals.md)
 - **S01-007 —** [Sacagawea](Sacagawea.md)
 - **S01-008 —** [Conspiracy of Pontiac (Parkman)](ConspiracyOfPontiac_Parkman.md)
