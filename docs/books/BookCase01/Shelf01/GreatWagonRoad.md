@@ -42,8 +42,56 @@ A lively road-trip through the **18th-century migration corridor** that carried 
 ### What it’s about (concise overview)
 Rouse reconstructs the **route, way stations, and communities** along the Great (Great Valley) Wagon Road, explaining why refugees from Europe poured through Pennsylvania and fanned southward into Virginia, the Carolinas, and beyond. He blends maps, travelers’ accounts, and local lore to show how the road seeded towns, churches, and frontier politics that later influenced the Revolution and westward expansion.
 
-### Table of contents (if readily available)
-*TBD* — add chapter list from the contents page when convenient.  
+### Table of contents (from this copy’s contents pages)
+*(Transcribed from photos; page numbers are printed starts.)*
+
+- **Prologue** — *ix*
+
+**BOOK ONE — The Appalachian Warrior’s Path**
+1. The Search for Eldorado — 1  
+2. War among the Iroquois — 11
+
+**BOOK TWO — The Philadelphia Wagon Road**
+3. Enter the Scotch-Irish — 19  
+4. A Moravian Journey to Carolina — 21  
+5. Along the Way South — 29  
+6. Mapping the Great Mountains — 37  
+7. Bethabara and New Salem — 43  
+8. The Threat from the French — 53  
+9. Life in the Appalachians — 65  
+10. *(title as printed in your copy)* — 73  
+11. *(title as printed in your copy)* — 83  
+12. *(title as printed in your copy)* — 93
+
+**BOOK THREE — The Wilderness Trail**
+13. The Great Wagon Road Turns West — 103  
+14. The Siege of Castle’s Woods — 119  
+15. Apostle of the Frontier — 127
+
+**BOOK FOUR — A Frontier in Danger**
+16. Andrew Jackson, of the Waxhaws — 135  
+17. The Exodus of the Quakers — 137  
+18. Conestoga’s Gift — 145  
+19. Hospitality, North and South — 153  
+20. The Spirit of Luther — 161  
+21. In the Cabins along the Road — 171  
+22. Tuckahoe versus Cohee — 183
+
+**BOOK FIVE — Division and Reunion**
+23. Stagecoaches and Turnpikes — 211  
+24. Great Days of the Horse — 213  
+25. The Cherokees Go West — 225  
+26. The Day Doctor Junkin Drove North — 233  
+27. Hot Heads and Cold Bodies — 241  
+28. A Road Is Reunited — 249
+
+**Back matter**
+- Epilogue — 265  
+- Acknowledgements — 269  
+- Bibliography — 271  
+- Notes — 277  
+- Index — 285
+
 > CIP notes: *American Trail series (New York), v. 11*; LC no. **72-8673**.
 
 ### Author & perspective
@@ -72,10 +120,12 @@ Long favored by **genealogists, local historians, and public-history readers** a
 - Shelf location: **BookCase01 › Shelf 1 › Pos 5**  
 - Dimensions (mm): H **TBD** × W **TBD** × T **TBD**
 
-### Related items in this library
-- **BC01-S01-008 — *The Conspiracy of Pontiac*** (Parkman): Colonial frontier conflict after the Seven Years’ War.  
-- **BC01-S01-006 — *The Journals of Lewis and Clark*** (Lewis & Clark; ed. DeVoto): Later trans-Appalachian exploration.  
-- **BC01-S01-004 — *Undaunted Courage*** (Ambrose): Jefferson, Lewis & Clark, and the opening of the West.
+### Related volumes on this shelf
+- [Undaunted Courage (Ambrose)](UndauntedCourage_Ambrose.md) — Jefferson, Lewis & Clark, and opening the trans-Appalachian West.  
+- [Journals of Lewis & Clark](LewisAndClarkJournals.md) — Primary-source travel along western routes.  
+- [Sacagawea](Sacagawea.md) — Biography tied to western exploration networks.  
+- [Conspiracy of Pontiac (Parkman)](ConspiracyOfPontiac_Parkman.md) — Frontier conflict shaping backcountry settlement.  
+- [We Are Lincoln Men](WeAreLincolnMen.md) — Later political culture of leaders shaped by frontier roots.
 
 ### Notes
 Your CIP page shows **American Trail series, v. 11**, **LC 72-8673**, and **ISBN 0-07-054101-9**.  
