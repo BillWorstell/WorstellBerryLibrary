@@ -1,0 +1,21 @@
+git add -f docs/books/BookCase01/Shelf01/AmericanSphinx_Ellis_TOC.jpg .gitignore
+git commit -m "Allow curated images under docs; add AmericanSphinx_Ellis TOC image"
+git push
+
+# From the repo root
+function Add-TocImage {
+  param(
+    [Parameter(Mandatory=$true)][string]$Slug,              # e.g. 'JohnAdams_McCullough'
+    [Parameter(Mandatory=$true)][string]$ShelfPath          # e.g. 'docs/books/BookCase01/Shelf01'
+  )
+  $src = "images/$Slug.jpg"
+  $dst = Join-Path $ShelfPath "$Slug.jpg"
+  if (!(Test-Path $src)) { throw "Missing $src" }
+  Copy-Item $src $dst -Force
+  git add $dst
+  git commit -m "Add curated TOC image for $Slug"
+  git push
+}
+
+# Example for the Ellis book:
+ Add-TocImage -Slug 'AmericanSphinx_Ellis_TOC' -ShelfPath 'docs/books/BookCase01/Shelf01'
