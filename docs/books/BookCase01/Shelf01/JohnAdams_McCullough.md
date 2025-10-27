@@ -46,8 +46,8 @@ McCullough follows John Adams from his Massachusetts beginnings through the cris
 
 ## Table of contents
 
-<!-- image located in docs/books/BookCase01/Shelf01/JohnAdams_McCullough.jpg -->
-![Table of contents — John Adams (McCullough)](JohnAdams_McCullough.jpg)
+<!-- image located in docs/books/BookCase01/Shelf01/JohnAdams_McCullough_TOC.jpg -->
+![Table of contents — John Adams (McCullough)](C)
 
 **Part I: Revolution**
 - Ch. 1 — *The Road to Philadelphia*, p. 17  
