@@ -44,11 +44,35 @@ David McCullough turns the life of the often-underappreciated second U.S. presid
 ### What it’s about (concise overview)
 McCullough follows John Adams from his Massachusetts beginnings through the crisis years of the Revolution, his diplomatic service in France and the Netherlands, the embattled vice-presidency, a single hard-won term as president, and a reflective retirement in Quincy. The book foregrounds Adams’s partnership with Abigail, his rivalry and reconciliation with Thomas Jefferson, and the messy work of creating institutions from scratch. It’s narrative history with an eye for character: principled, stubborn, funny, and sometimes wrong—Adams emerges as indispensable to American independence and statecraft.
 
-### Table of contents (if readily available)
-- **Part I — Revolution**  
-- **Part II — Distant Shores**  
-- **Part III — Independence Forever**  
-*(Chapter list not transcribed here.)*
+## Table of contents
+
+<!-- image located in docs/books/BookCase01/Shelf01/JohnAdams_McCullough.jpg -->
+![Table of contents — John Adams (McCullough)](JohnAdams_McCullough.jpg)
+
+**Part I: Revolution**
+- Ch. 1 — *The Road to Philadelphia*, p. 17  
+- Ch. 2 — *True Blue*, p. 78  
+- Ch. 3 — *Colossus of Independence*, p. 125  
+
+**Part II: Distant Shores**
+- Ch. 4 — *Appointment to France*, p. 167  
+- Ch. 5 — *Unalterably Determined*, p. 228  
+- Ch. 6 — *Abigail in Paris*, p. 287  
+- Ch. 7 — *London*, p. 333  
+
+**Part III: Independence Forever**
+- Ch. 8  — *Heir Apparent*, p. 389  
+- Ch. 9  — *Old Oak*, p. 467  
+- Ch. 10 — *Statesman*, p. 515  
+- Ch. 11 — *Rejoice Ever More*, p. 568  
+- Ch. 12 — *Journey's End*, p. 615  
+
+**Back matter**
+- Acknowledgments — p. 653  
+- Source Notes — p. 657  
+- Bibliography — p. 703  
+- Index — p. 727  
+
 
 ### Author & perspective
 David McCullough (1933–2022) was a widely read American narrative historian and biographer. His approach prizes storytelling from primary sources—especially letters—over theory, aiming at clarity for general readers. In *John Adams* he leans toward sympathetic appraisal, but the portrait includes failures (e.g., the Alien and Sedition Acts) and personal blind spots. Expect a confident, accessible voice rather than academic argumentation.
