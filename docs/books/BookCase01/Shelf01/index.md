@@ -1,4 +1,4 @@
-# BookCase 01 — Shelf 0 (Overview)
+# BookCase 01 — Shelf 01 (Overview)
 
 *Location:* `BookCase01 / Shelf01`  
 *Scope:* Reference-heavy U.S. history, exploration, biography, and related works.
@@ -29,7 +29,7 @@
 - **S01-013 —** [Big Burn (Egan)](BigBurn_Egan.md)
 
 ### S01-014 … S01-017
-- **S01-014 —** [Worst Hard Time (Egan)](WorstHardTime_Egan.md)C
+- **S01-014 —** [Worst Hard Time (Egan)](WorstHardTime_Egan.md)
 - **S01-015 —** [Freedom From Fear (Kennedy)](FreedomFromFear_Kennedy.md)
 - **S01-016 —** [Hiroshima to Glasnost (Nitze)](HiroshimaToGlasnost_Nitze.md)
 - **S01-017 —** [Camelot’s Court (Dallek)](CamelotsCourt_Dallek.md)
