@@ -1,4 +1,4 @@
-# BookCase 01 — Shelf 1 (Overview)
+# BookCase 01 — Shelf 02 (Overview)
 
 *Location:* `BookCase01 / Shelf02`  
 *Scope:* World history with emphasis on Britain, Israel/Middle East, Russia/USSR, WWII, and cartoon histories; plus a few provenance notes.
