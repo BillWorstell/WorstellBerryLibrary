@@ -25,7 +25,7 @@ location:
   position: "3"
 tags: ["US History", "Biography", "Jefferson"]
 images:
-  title_page: "20251024_111112.jpg"
+  title_page: "AmericanSphinx_Ellis_Cover.jpg"
   spine: ""
   cover: "20251024_110930.jpg"
 classification:
@@ -47,7 +47,7 @@ Rather than a cradle-to-grave chronicle, this is a **character study** built aro
 ---
 
 ## Table of contents
-![Table of contents — *American Sphinx* (Ellis)](AmericanSphinx_Ellis.jpg)
+![Table of contents — *American Sphinx* (Ellis)](AmericanSphinx_Ellis_TOC.jpg)
 
 > If the image isn’t visible yet, run:
 > `Add-TocImage -Slug 'AmericanSphinx_Ellis' -ShelfPath 'docs/books/BookCase01/Shelf01'`
