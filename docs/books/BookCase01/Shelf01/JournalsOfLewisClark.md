@@ -83,7 +83,7 @@ VI. *Jul 3–Aug 12, 1806*, p. 416
 - **Secondary:** `94(73)`, `929` — U.S. history; biographical/joint authorship
 
 ## Related volumes on this shelf
-- [Undaunted Courage (Ambrose)](./UndauntedCourage_Ambrose.md)  
-- [Sacagawea of the Lewis & Clark Expedition (Clark & Edmonds)](./Sacagawea.md)  
-- [The Conspiracy of Pontiac (Parkman)](./ConspiracyOfPontiac_Parkman.md)  
-- [The River of Doubt (Millard)](./RiverOfDoubt_Millard.md)
+- [Undaunted Courage (Ambrose)](../UndauntedCourage_Ambrose.md)  
+- [Sacagawea of the Lewis & Clark Expedition (Clark & Edmonds)](../Sacagawea.md)  
+- [The Conspiracy of Pontiac (Parkman)](../ConspiracyOfPontiac_Parkman.md)  
+- [The River of Doubt (Millard)](../RiverOfDoubt_Millard.md)
