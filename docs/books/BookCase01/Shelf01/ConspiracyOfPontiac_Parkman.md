@@ -36,49 +36,78 @@ crossrefs: ["BC01-S01-006", "BC01-S01-007", "BC01-S01-004", "BC01-S01-005"]
 last_verified: "2025-10-24"
 ---
 
-# The Conspiracy of Pontiac — Francis Parkman (Bison Books, 1994 reprint)
+# *The Conspiracy of Pontiac* — Francis Parkman (Bison Books ed., Vol. 1)
 
-### Why read this
-If you’re mapping the hinge between French and British North America, **Pontiac’s War (1763–1766)** is the shockwave that reveals what conquest actually meant on the ground. Parkman’s fast-moving narrative stitches together garrisons under siege, diplomacy in council houses, and a region in flux—essential background for the early American frontier.
+## Why read this
 
-### What it’s about (concise overview)
-Volume 1 covers the imperial handoff after the Seven Years’ War and the coordinated Native resistance centered on the Odawa leader **Pontiac**. Forts fall in quick succession, culminating in the 1763 **Michilimackinac** massacre, while British officials scramble to consolidate a vast new interior. Parkman draws on military correspondence, travel accounts, and colonial papers to frame a theater-wide story: Great Lakes and Ohio Country peoples pushing back against new policies and settlers, and an empire learning that victory in Europe is not control in America.
+Parkman’s classic narrative history of the 1763 Great Lakes–Ohio Valley uprising led by **Pontiac** reveals the messy transition from French to British rule after the Seven Years’ War: diplomacy, sieges (Detroit, Michilimackinac), and frontier entanglements among Native nations, the British Empire, and colonial settlers. It’s vivid, source-rich 19th-century storytelling that shaped generations of U.S. frontier history.
 
-### Table of contents (if readily available)
-TBD (Bison reprint of the revised 1870 text; chapter list not transcribed here.)
+## What it’s about (concise overview)
 
-### Author & perspective
-- **Francis Parkman (1823–1893)**: Boston-based historian famed for literary narratives of the North American frontier.  
-- **Perspective:** 19th-century Anglo-American viewpoint—eloquent, archival, but colored by the period’s racial assumptions and teleology of empire.  
-- **This edition:** Bison Books adds a modern **introduction by Michael N. McConnell** that situates Parkman’s sources and limitations for contemporary readers.
+Volume 1 traces the **background (1608–1763)**, the **transfer of forts (1760)**, the **formation of the confederacy (1760–1763)**, preparations for war, and the early campaign of **1763**—including **Pontiac’s siege of Detroit** and the **Michilimackinac** disaster—told through journals, official papers, and oral testimony. (Readers should also be aware of Parkman’s period biases and language when describing Native peoples.)
 
-### Reception & impact
-Parkman’s works were long considered definitive for English-language readers and remain influential as storytelling history. Modern scholarship has revised many of his judgments about Indigenous motives and colonial policy; the Bison edition is popular in classrooms because it preserves the classic prose while flagging context and bias.
+## Table of contents (from this copy)
 
-### Scope & style
-- **Scope:** Great Lakes / Ohio Country, **1763–1766**; British garrisons, Native diplomacy and warfare, imperial policy after the conquest of Canada.  
-- **Style:** High-energy narrative history with set-pieces and documentary quotation; maps vary by printing.  
-- **Reading experience:** Propulsive and vivid, best read alongside modern commentary for balance.
+> Chapter titles and date spans are transcribed for searchability; consult the scans below for Parkman’s detailed sub-head bullet lists.
 
-### Publication & readership
-- **Type:** Trade **paperback** reprint (1994) of Parkman’s **revised 1870** edition.  
-- **Audience:** General readers of frontier history; students of colonial/Indigenous relations; anyone tracing the transition from French to British rule.
+**Introductory** — *Indian Tribes East of the Mississippi*
+**Ch. II (1663–1763)** — *France and England in America*
+**Ch. III (1608–1763)** — *The French, the English, and the Indians*
+**Ch. IV (1700–1755)** — *Collision of the Rival Colonies*
+**Ch. V (1755–1763)** — *The Wilderness and its Tenants at the Close of the French War*
+**Ch. VI (1760)** — *The English take Possession of the Western Posts*
+**Ch. VII (1760–1763)** — *Anger of the Indians — The Conspiracy*
+**Ch. VIII (1763)** — *Indian Preparation*
+**Ch. IX (April 1763)** — *The Council at the River Ecorces*
+**Ch. X (May 1763)** — *Treachery of Pontiac*
+**Ch. XI (1763)** — *A Night of Anxiety*
+**Ch. XII (1763)** — *Pontiac at the Siege of Detroit*
+**Ch. XIII (1763)** — *Rout of Cuyler’s Detachment — Fate of the Forest Garrisons*
+**Ch. XIV (1763)** — *The Indians continue to Blockade Detroit*
+**Ch. XV (1763)** — *The Fight of Bloody Bridge*
+**Ch. XVI (1763)** — *Michillimackinac*
+**Ch. XVII (1763)** — *The Massacre*
 
-### UDC subject classification (searchable)
-- **Primary:** `94(71/73)"1763/1766"` — History of Canada/USA, Pontiac’s War period.  
-- **Secondary:** `355` — Military affairs; `39` — Cultural/ethnographic context.  
-- **Notes:** Use alongside tags: *Great Lakes; Michilimackinac; British Empire; Odawa; Ohio Country; Seven Years’ War aftermath*.
+::: details Show original TOC scans (optional)
 
-### At-a-glance facts
-- Year: **1994** | Pages: **TBD** | Format: **PB** | ISBN: **0-8032-8733-X**  
-- Dimensions (mm): H **TBD** × W **TBD** × T **TBD**  
-- Shelf location: **BookCase01 › Shelf 1 › Pos 8**
+<p align="center">
+  <img src="ConspiracyOfPontiac_Parkman_TOC.jpg" alt="Table of contents — vol. 1 (page set 1)" width="720"><br/>
+  <img src="ConspiracyOfPontiac_Parkman_TOC2.jpg" alt="Table of contents — vol. 1 (page set 2)" width="720"><br/>
+  <img src="ConspiracyOfPontiac_Parkman_TOC3.jpg" alt="Table of contents — vol. 1 (page set 3)" width="720"><br/>
+  <img src="ConspiracyOfPontiac_Parkman_TOC4.jpg" alt="Table of contents — vol. 1 (page set 4)" width="720"><br/>
+  <img src="ConspiracyOfPontiac_Parkman_TOC5.jpg" alt="Table of contents — vol. 1 (page set 5)" width="720"><br/>
+  <img src="ConspiracyOfPontiac_Parkman_TOC6.jpg" alt="Table of contents — vol. 1 (page set 6)" width="720">
+</p>
+:::
 
-### Related items in this library
-- **BC01-S01-006** — *The Journals of Lewis and Clark* (DeVoto, ed.)  
-- **BC01-S01-007** — *Sacagawea of the Lewis & Clark Expedition* (Clark & Edmonds)  
-- **BC01-S01-004** — *Undaunted Courage* (Ambrose)  
-- **BC01-S01-005** — *The Great Wagon Road* (Rouse)
+## Author & perspective
 
-### Notes
-Reprint of the **revised 1870** edition; **First Bison Books printing 1994**.
+**Francis Parkman (1823–1893)**, Boston-born historian, wrote this work first in **1851** (revised **1870**). His prose is gripping, but his depictions reflect 19th-century racial attitudes. Use alongside modern scholarship for balance.
+
+## UDC subject classification (for search)
+
+* **Primary:** 94(73) — U.S. history (18th century; Pontiac’s War)
+* **Secondary:** 355 — Military history; 39 — Ethnology / Indigenous studies
+* **Tags:** Pontiac • Great Lakes • Detroit • Michilimackinac • British Empire • French colonial legacy • Native diplomacy
+
+## Publication details (this copy)
+
+Bison Books (University of Nebraska Press) paperback reprint, **1994** — a reissue of the **1870** revised text (original **1851**). **Introduction:** Michael N. McConnell.
+**ISBN:** Vol. 1 **0-8032-8733-X** (pbk., alk. paper); Vol. 2 **0-8032-8737-2**.
+*(See scan for full CIP block.)*
+
+::: details Show copyright / CIP page (scan)
+
+<p align="center">
+  <img src="ConspiracyOfPontiac_Parkman_CopyRight.jpg" alt="Copyright/CIP page — Bison Books ed." width="720">
+</p>
+:::
+
+## Related volumes on this shelf
+
+* [Great Wagon Road (Rouse)](GreatWagonRoad.md)
+* [Undaunted Courage (Ambrose)](UndauntedCourage_Ambrose.md)
+* [Journals of Lewis & Clark](JournalsOfLewisClark.md)
+* [Sacagawea (Clark & Edmonds)](Sacagawea.md)
+
+
