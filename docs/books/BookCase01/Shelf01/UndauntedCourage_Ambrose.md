@@ -106,5 +106,4 @@ Ambrose (1936–2002) writes accessible **narrative history**; sympathetic to le
 - [**Sacagawea of the Lewis & Clark Expedition**](Sacagawea.md)
 - [**American Sphinx (Ellis)**](AmericanSphinx_Ellis.md) — Jefferson biography
 - [**John Adams (McCullough)**](JohnAdams_McCullough.md) — companion Founders-era narrative
-- [**River of Doubt (Millard)**](RiverOfDoubt_Millard.md) — later exploration narrative
 - [**The Great Wagon Road (Rouse)**](GreatWagonRoad.md) — colonial frontier movement
