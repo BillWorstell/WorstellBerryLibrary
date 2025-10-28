@@ -16,7 +16,7 @@ strict: true
 # (optional) search plugin is fine
 plugins:
   - search
-  
+
 nav:
   - Home: index.md                    # (docs/index.md). Keep or replace with your own landing page.
 
@@ -36,8 +36,8 @@ nav:
           - Great Wagon Road (Rouse): books/BookCase01/Shelf01/GreatWagonRoad.md
           - Hiroshima to Glasnost (Nitze): books/BookCase01/Shelf01/HiroshimaToGlasnost_Nitze.md
           - John Adams (McCullough): books/BookCase01/Shelf01/JohnAdams_McCullough.md
-          - Journals of Lewis & Clark: books/BookCase01/Shelf01/LewisAndClarkJournals.md
-          - River of Doubt (Millard): books/BookCase01/Shelf01/RiverOfDoubt_TheodoreRoosevelt.md
+          - Journals of Lewis & Clark: books/BookCase01/Shelf01/JournalsOfLewisClark.md
+          - River of Doubt (Millard): books/BookCase01/Shelf01/RiverOfDoubt_Millard.md
           - Sacagawea: books/BookCase01/Shelf01/Sacagawea.md
           - Undaunted Courage (Ambrose): books/BookCase01/Shelf01/UndauntedCourage_Ambrose.md
           - We Are Lincoln Men: books/BookCase01/Shelf01/WeAreLincolnMen.md
