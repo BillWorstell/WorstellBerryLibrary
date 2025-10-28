@@ -68,6 +68,6 @@ Shelf location: **BookCase 01 → Shelf 1** (pos. 7). :contentReference[oaicite:
 ---
 
 ## Related volumes on this shelf
-- **Undaunted Courage** — Stephen E. Ambrose → [link](../UndauntedCourage_Ambrose.md)  
-- **The Journals of Lewis & Clark** — Bernard DeVoto, ed. → [link](../JournalsOfLewisClark.md)  
-- **American Sphinx** — Joseph J. Ellis (Jefferson biography/context) → [link](../AmericanSphinx_Ellis.md)
+- **Undaunted Courage** — Stephen E. Ambrose → [link](./UndauntedCourage_Ambrose.md)  
+- **The Journals of Lewis & Clark** — Bernard DeVoto, ed. → [link](./JournalsOfLewisClark.md)  
+- **American Sphinx** — Joseph J. Ellis (Jefferson biography/context) → [link](./AmericanSphinx_Ellis.md)

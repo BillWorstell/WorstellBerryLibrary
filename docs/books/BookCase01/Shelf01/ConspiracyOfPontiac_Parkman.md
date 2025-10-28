@@ -66,9 +66,9 @@ Introduction: **Michael N. McConnell**.
 </details>
 
 ## Related volumes on this shelf
-- [**Great Wagon Road** (Rouse)](../Shelf01/GreatWagonRoad.md)
-- [**John Adams** (McCullough)](../Shelf01/JohnAdams_McCullough.md)
-- [**American Sphinx** (Ellis)](../Shelf01/AmericanSphinx_Ellis.md)
-- [**Journals of Lewis & Clark**](../Shelf01/JournalsOfLewisClark.md)
-- [**Undaunted Courage** (Ambrose)](../Shelf01/UndauntedCourage_Ambrose.md)
-- [**Declaration of Independence** (Great Books Foundation)](../Shelf01/DeclarationOfIndependence.md)
+- [**Great Wagon Road** (Rouse)](./Shelf01/GreatWagonRoad.md)
+- [**John Adams** (McCullough)](./Shelf01/JohnAdams_McCullough.md)
+- [**American Sphinx** (Ellis)](./Shelf01/AmericanSphinx_Ellis.md)
+- [**Journals of Lewis & Clark**](./Shelf01/JournalsOfLewisClark.md)
+- [**Undaunted Courage** (Ambrose)](./Shelf01/UndauntedCourage_Ambrose.md)
+- [**Declaration of Independence** (Great Books Foundation)](./Shelf01/DeclarationOfIndependence.md)
