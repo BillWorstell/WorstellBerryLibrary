@@ -12,7 +12,13 @@ Clark and Edmonds combine narrative and documentary material to follow Sacagawea
 
 ## Table of contents (from this copy)
 
-![Table of contents — page 1](Sacagawea_TOC.jpg)
+### Table of contents (from this copy)
+
+<details>
+  <summary>Show original TOC scan (optional)</summary>
+
+  ![Table of contents — page 1](Sacagawea_TOC.jpg)
+</details>
 
 **Part I — The Expedition**  
 1. Jefferson’s Dream  
@@ -48,8 +54,16 @@ Ella E. Clark (folklorist/educator) and Margot Edmonds examine both **primary ex
 - **Tags:** Shoshone • Corps of Discovery • women in exploration • historical memory
 
 ### Publication details (this copy)
-University of California Press, first paperback printing **1983** (orig. ©1979). ISBN on verso appears as **0-520-05066-6** (confirm against your copy). ![Verso (copyright & CIP)](Sacagawea_CopyRight.jpg)  
+University of California Press, first paperback printing **1983** (orig. ©1979). ISBN on verso appears as **0-520-05066-6** (confirm against your copy).
 Shelf location: **BookCase 01 → Shelf 1** (pos. 7). :contentReference[oaicite:0]{index=0}
+
+### CopyRight (from this copy)
+
+<details>
+  <summary>Show original TOC scan (optional)</summary>
+
+  [Verso (copyright & CIP)](Sacagawea_CopyRight.jpg)
+</details>
 
 ---
 
