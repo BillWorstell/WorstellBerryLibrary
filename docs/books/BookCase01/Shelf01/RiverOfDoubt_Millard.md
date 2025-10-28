@@ -20,17 +20,17 @@ Millard reconstructs the 1913–14 expedition down a then-unknown Amazon tributa
 **Prologue**
 
 **Part One — Breaking Away**  
-1. Defeat — p. —  
-2. Opportunity — p. —  
-3. Preparation — p. —  
-4. On the Open Sea — p. —  
-5. A Change of Plans — p. —
+1. Defeat — p. 7  
+2. Opportunity — p. 19  
+3. Preparation — p. 30 
+4. On the Open Sea — p. 38 
+5. A Change of Plans — p. 52
 
 **Part Two — Into the Wilderness**  
-6. Beyond the Frontier — p. —  
-7. Disarray and Tragedy — p. —  
-8. Hard Choices — p. —  
-9. Warnings from the Dead — p. —
+6. Beyond the Frontier — p. 73  
+7. Disarray and Tragedy — p. 85  
+8. Hard Choices — p. 100
+9. Warnings from the Dead — p. 112
 
 **Part Six — Deliverance**  
 28. The Rubber Men — p. 317  
@@ -39,10 +39,19 @@ Millard reconstructs the 1913–14 expedition down a then-unknown Amazon tributa
 **Back matter**  
 Epilogue — p. 336 • Notes — p. 355 • Select Bibliography — p. 395 • Acknowledgments — p. 403 • Photo Credits — p. 408 • Index — p. 409
 
-::: details Show original TOC scans (optional)
-![Table of contents — page set](RiverOfDoubt_Millard_TOC.jpg)  
-![Table of contents — later pages](RiverOfDoubt_Millard_TOC3.jpg)
-:::
+<details>
+<summary>Show original TOC scans (optional)</summary>
+
+- [Table of contents — page 1](RiverOfDoubt_Millard_TOC.jpg)
+- [Table of contents — page 2](RiverOfDoubt_Millard_TOC2.jpg)  
+- [Table of contents — page 3](RiverOfDoubt_Millard_TOC3.jpg)
+
+<!-- If you prefer inline images when expanded, uncomment these lines:
+![Table of contents — page 1](RiverOfDoubt_Millard_TOC.jpg)
+![Table of contents — page 2](RiverOfDoubt_Millard_TOC2.jpg)
+![Table of contents — page 3](RiverOfDoubt_Millard_TOC3.jpg)
+-->
+</details>
 
 ## Maps (from this copy)
 ![South America route map used in the book](RiverOfDoubt_Millard_Map.jpg)
