@@ -57,10 +57,6 @@ A highly readable one-volume selection of the daily journals of **Meriwether Lew
 
 **Back matter** — *Notes*, p. 485 • *Bibliography*, p. 503 • *Index*, p. 507
 
-> **Scanneds:**  
-> ![Table of contents — page 1](JournalsOfLewisClark_TOC.jpg)  
-> ![Table of contents — page 2](JournalsOfLewisClark_TOC2.jpg)
-
 ---
 
 ## List of maps (from front matter)
