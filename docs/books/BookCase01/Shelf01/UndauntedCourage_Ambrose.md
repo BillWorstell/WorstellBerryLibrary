@@ -24,8 +24,6 @@ crossrefs: ["BC01-S01-006", "BC01-S01-007"]
 
 # *Undaunted Courage* — Stephen E. Ambrose
 
-![Cover: *Undaunted Courage* (Ambrose)](UndauntedCourage_Ambrose_Cover.jpg)
-
 ### Why read this
 A gripping, scene-by-scene account of the **Lewis & Clark Expedition**, blending logistics, diplomacy, and natural history with Ambrose’s brisk narrative.
 
@@ -93,11 +91,6 @@ From Lewis’s apprenticeship with **Thomas Jefferson** through the 1804–06 jo
 - **Crossing the Bitterroot Mountains**, p. 296  
 - **Exploring the Mouth of the Columbia**, p. 322  
 - **Traveler’s Rest**, p. 382
-
-> Source photos (for provenance and quick check):  
-> ![TOC page 1](UndauntedCourage_Ambrose.jpg)  
-> ![TOC page 2](UndauntedCourage_Ambrose_TOC2.jpg)  
-> ![TOC page 3](UndauntedCourage_Ambrose_TOC3.jpg)
 
 ---
 
