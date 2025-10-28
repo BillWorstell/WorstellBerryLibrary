@@ -30,8 +30,30 @@ Pulitzer-Prize–winning historian **David Herbert Donald** (author of *Lincoln*
 ### What it’s about (concise overview)
 Donald traces Lincoln’s friendships from **Springfield** through the **presidency**, showing how ties with figures such as politicians, law partners, neighbors, and military advisers shaped his **political judgment**, **emotional life**, and **governing style**. Rather than a cradle-to-grave narrative, the book is organized around **relationships**, arguing that Lincoln’s effectiveness came from a selective but durable reliance on a few people he trusted.
 
-### Table of contents (add when you capture the page)
-*TBD.* (Photograph/scan the contents page and drop it here; we’ll list the chapter titles verbatim.)
+## Table of contents
+
+**Front matter** — *Preface*, p. xiii
+
+- **I.** “A Strange, Friendless, Uneducated, Penniless Boy”: *Lincoln’s Early Friendships*, p. 1  
+- **II.** “He Disclosed His Whole Heart to Me”: *Lincoln and Joshua F. Speed*, p. 29  
+- **III.** “I Could Read His Secrets”: *Lincoln and William H. Herndon*, p. 65  
+- **IV.** “A Close, Warm, and Sincere Friendship”: *Lincoln and Orville H. Browning*, p. 101  
+- **V.** “Beyond the Pale of Human Envy”: *Lincoln and William H. Seward*, p. 140  
+- **VI.** “Abraham Rex”: *Lincoln and His Private Secretaries*, p. 177  
+
+**Back matter**  
+- *Afterword*, p. 213  
+- *Notes*, p. 221  
+- *Acknowledgments*, p. 255  
+- *Index*, p. 259  
+
+<details>
+<summary><strong>Show original TOC scan (optional)</strong></summary>
+
+![Table of contents — We Are Lincoln Men](WeAreLincolnMen_TOC.jpg)
+
+</details>
+
 
 ### Author & perspective
 Donald writes as a **scholarly biographer** with a measured, archival approach. His perspective emphasizes **documented correspondence** and contemporaneous testimony, resisting mythologizing while still portraying Lincoln’s emotional reticence and strategic use of friendship.
