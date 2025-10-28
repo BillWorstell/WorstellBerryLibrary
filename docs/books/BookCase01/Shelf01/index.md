@@ -17,14 +17,14 @@
 ### S01-004 … S01-008
 - **S01-004 —** [Great Wagon Road (Rouse)](GreatWagonRoad.md)
 - **S01-005 —** [Undaunted Courage (Ambrose)](UndauntedCourage_Ambrose.md)
-- **S01-006 —** [Journals of Lewis & Clark](LewisAndClarkJournals.md)
+- **S01-006 —** [Journals of Lewis & Clark](JournalsOfLewisClark.md)
 - **S01-007 —** [Sacagawea](Sacagawea.md)
 - **S01-008 —** [Conspiracy of Pontiac (Parkman)](ConspiracyOfPontiac_Parkman.md)
 
 ### S01-009 … S01-013
 - **S01-009 —** [We Are Lincoln Men](WeAreLincolnMen.md)
 - **S01-010 —** [Elizabeth Cady Stanton](ElizabethCadyStanton.md)
-- **S01-011 —** [River of Doubt (Millard)](RiverOfDoubt_TheodoreRoosevelt.md)
+- **S01-011 —** [River of Doubt (Millard)](RiverOfDoubt_Millard.md)
 - **S01-012 —** [Age of Reform (Hofstadter)](AgeOfReform_Hofstadter.md)
 - **S01-013 —** [Big Burn (Egan)](BigBurn_Egan.md)
 
