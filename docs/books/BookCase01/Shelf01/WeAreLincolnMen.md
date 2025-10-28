@@ -24,6 +24,8 @@ last_verified: "2025-10-24"
 
 # *We Are Lincoln Men: Abraham Lincoln and His Friends* — David Herbert Donald
 
+![Cover — *We Are Lincoln Men*](WeAreLincolnMen_Cover.jpg)
+
 ### Why read this
 Pulitzer-Prize–winning historian **David Herbert Donald** (author of *Lincoln*) explores how a famously private president relied on a small circle of **trusted friends and confidants**. If you’re curious about the **human networks** behind Lincoln’s rise and leadership, this is an engaging, character-driven window into the era.
 
