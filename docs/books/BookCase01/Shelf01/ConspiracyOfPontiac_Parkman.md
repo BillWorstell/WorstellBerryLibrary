@@ -71,4 +71,4 @@ Introduction: **Michael N. McConnell**.
 - [**American Sphinx** (Ellis)](AmericanSphinx_Ellis.md)
 - [**Journals of Lewis & Clark**](JournalsOfLewisClark.md)
 - [**Undaunted Courage** (Ambrose)](UndauntedCourage_Ambrose.md)
-- [**Declaration of Independence** (Great Books Foundation)](./Shelf01/DeclarationOfIndependence.md)
+- [**Declaration of Independence** (Great Books Foundation)](DeclarationOfIndependence.md)
