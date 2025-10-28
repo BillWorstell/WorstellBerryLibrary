@@ -126,7 +126,7 @@ Long favored by **genealogists, local historians, and public-history readers** a
 
 ### Related volumes on this shelf
 - [Undaunted Courage (Ambrose)](UndauntedCourage_Ambrose.md) — Jefferson, Lewis & Clark, and opening the trans-Appalachian West.  
-- [Journals of Lewis & Clark](LewisAndClarkJournals.md) — Primary-source travel along western routes.  
+- [Journals of Lewis & Clark](JournalsOfLewisClark..md) — Primary-source travel along western routes.  
 - [Sacagawea](Sacagawea.md) — Biography tied to western exploration networks.  
 - [Conspiracy of Pontiac (Parkman)](ConspiracyOfPontiac_Parkman.md) — Frontier conflict shaping backcountry settlement.  
 - [We Are Lincoln Men](WeAreLincolnMen.md) — Later political culture of leaders shaped by frontier roots.
