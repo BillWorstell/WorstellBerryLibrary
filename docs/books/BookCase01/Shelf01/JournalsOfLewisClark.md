@@ -72,7 +72,7 @@ IV. *Jun 21–Oct 8, 1805*, p. 156
 V. *Oct 10, 1805–May 3, 1806*, p. 247  
 VI. *Jul 3–Aug 12, 1806*, p. 416
 
-![List of maps](JournalsOfLewisClark_Maps.jpg)
+![Map](JournalsOfLewisClark_Maps2.jpg)
 
 ---
 
