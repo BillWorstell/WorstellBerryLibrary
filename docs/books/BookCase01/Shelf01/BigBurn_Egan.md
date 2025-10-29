@@ -1,4 +1,4 @@
-# The Big Burn — Timothy Egan  
+# The Big Burn — Timothy Egan
 *Theodore Roosevelt & the Fire That Saved America*
 
 ![Cover — The Big Burn](BigBurn_Egan_Cover.jpg)
@@ -10,41 +10,45 @@ A gripping narrative of the **Great Fire of 1910** in Idaho and Montana—and th
 Two threads drive the book: the Forest Service’s struggle to survive in Washington, and the bone-dry summer that set the Northern Rockies ablaze. When hurricane-force winds arrive, towns and crews face firestorms; the aftermath reshapes federal wildfire policy and the idea of **public land**.
 
 ## Table of contents (from this copy)
+*Chapters transcribed for searchability; see scans below for layout.*
 
-*Prologue* — **A Fire at the End of the World**, p. 1
+**Prologue — A Fire at the End of the World**, p. 1<br>
 
-**Part I — In on the Creation**  
-1. “A Peculiar Intimacy”, p. 17  
-2. Roost of the Robber Barons, p. 39  
-3. The Great Crusade, p. 53  
-4. Deadwood Days, p. 73  
-5. Showdown, p. 86  
+**Part I — In on the Creation**<br>
+1. “A Peculiar Intimacy”, p. 17<br>
+2. Roost of the Robber Barons, p. 39<br>
+3. The Great Crusade, p. 53<br>
+4. Deadwood Days, p. 73<br>
+5. Showdown, p. 86<br>
 
-**Part II — What They Lost**  
-6. Summer of Smoke, p. 105  
-7. Men, Men, Men!, p. 116  
-8. Spaghetti Westerners, p. 129  
-9. Firestorm’s Eve, p. 141  
-10. Blowup, p. 154  
-11. The Lost Day, p. 158  
-12. The Lost Night, p. 172  
-13. Towns Afire, p. 187  
-14. To Save a Town, p. 201  
-15. The Missing, p. 211  
-16. The Living and the Dead, p. 227  
+**Part II — What They Lost**<br>
+6. Summer of Smoke, p. 105<br>
+7. Men, Men, Men!, p. 116<br>
+8. Spaghetti Westerners, p. 129<br>
+9. Firestorm’s Eve, p. 141<br>
+10. Blowup, p. 154<br>
+11. The Lost Day, p. 158<br>
+12. The Lost Night, p. 172<br>
+13. Towns Afire, p. 187<br>
+14. To Save a Town, p. 201<br>
+15. The Missing, p. 211<br>
+16. The Living and the Dead, p. 227<br>
 
-**Part III — What They Saved**  
-17. Fallout, p. 239  
-18. One for the Boys, p. 249  
-19. Ashes, p. 263  
+**Part III — What They Saved**<br>
+17. Fallout, p. 239<br>
+18. One for the Boys, p. 249<br>
+19. Ashes, p. 263<br>
 
-**Back matter**  
+**Back matter**<br>
 Notes on Sources, p. 287 • Acknowledgments, p. 307 • Index, p. 309
 
-::: details Show original TOC scans (optional)
+<details>
+<summary>Show original TOC scans (optional)</summary>
+
 ![Table of contents — page 1](BigBurn_Egan_TOC.jpg)  
 ![Table of contents — page 2](BigBurn_Egan_TOC2.jpg)
-:::
+
+</details>
 
 ## Author & perspective
 Pulitzer-winning journalist **Timothy Egan** blends scene-driven storytelling with clear political context. Sympathetic to Roosevelt/Pinchot’s conservation project, he still foregrounds labor, class, and Western boomtown realities.
@@ -56,12 +60,14 @@ Pulitzer-winning journalist **Timothy Egan** blends scene-driven storytelling wi
 
 ## Publication details (this copy)
 Mariner Books (Houghton Mifflin Harcourt), **First Mariner Books edition 2010** (orig. 2009).  
-CIP page lists **ISBN 978-0-618-96841-1** and **978-0-547-39460-2 (pbk.)** — record the one printed on your back cover as primary.  
-Book design by Melissa Lotfy. Map by Jacques Chazaud.
+CIP page lists **ISBN 978-0-618-96841-1** and **978-0-547-39460-2 (pbk.)** — record the one printed on your copy’s back cover as primary.
 
-::: details Show copyright/CIP page (scan)
+<details>
+<summary>Show copyright / CIP page (scan)</summary>
+
 ![Copyright/CIP page](BigBurn_Egan_CopyRight.jpg)
-:::
+
+</details>
 
 ## Related volumes on this shelf
 - *The River of Doubt* (Millard) — Roosevelt in the Amazon  
