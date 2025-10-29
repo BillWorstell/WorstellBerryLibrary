@@ -26,7 +26,7 @@
 - **S01-010 —** [Elizabeth Cady Stanton](ElizabethCadyStanton.md)
 - **S01-011 —** [River of Doubt (Millard)](RiverOfDoubt_Millard.md)
 - **S01-012 —** [Age of Reform (Hofstadter)](AgeOfReform_Hofstadter.md)
-- **S01-013 —** [Big Burn (Egan)](BigBurn_Egan.md)
+- **S01-013 —** [The Big Burn (Egan)](BigBurn_Egan.md)
 
 ### S01-014 … S01-017
 - **S01-014 —** [Worst Hard Time (Egan)](WorstHardTime_Egan.md)

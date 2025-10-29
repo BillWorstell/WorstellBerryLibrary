@@ -1,81 +1,70 @@
----
-volume_id: "BC01-S01-013"
-title: "The Big Burn"
-subtitle: "Teddy Roosevelt & the Fire That Saved America"
-authors: "Egan, Timothy"
-editors_translators: ""
-series: ""
-series_volume: ""
-edition: "First Mariner Books edition"
-publisher: "Mariner Books, Houghton Mifflin Harcourt"
-pub_city: "New York"
-pub_year: "2010"
-isbn: "978-0-618-96841-1; 978-0-547-39460-2 (pbk.)  # confirm which appears on back cover"
-format: "PB"
-pages: ""
-dimensions_mm:
-  height: ""
-  width: ""
-  thickness: ""
-condition: ""
-location:
-  bookcase: "BookCase01"
-  shelf: "1"
-  section: ""
-  position: "13"
-tags: ["US History", "Conservation", "Wildfire", "Roosevelt", "Pinchot", "Forest Service"]
-images:
-  title_page: "20251024_124055.jpg"
-  spine: ""
-  cover: "20251024_124025.jpg"
-classification:
-  udc_primary: "634.9"              # Forestry, forest conservation
-  udc_secondary: ['94(73)', '363.37']  # U.S. history; Disasters (fires)
-  notes: "Narrative history of the 1910 Northern Rocky Mountain fires and Progressive-era conservation."
-crossrefs: ["BC01-S01-011", "BC01-S01-012"]
-last_verified: "2025-10-24"
----
+# The Big Burn — Timothy Egan  
+*Theodore Roosevelt & the Fire That Saved America*
 
-# The Big Burn — Timothy Egan (2010, Mariner Books)
+![Cover — The Big Burn](BigBurn_Egan_Cover.jpg)
 
-### Why read this
-An edge-of-your-seat account of the **Great Fire of 1910** that roared across Idaho and Montana—and the political struggle that birthed American conservation. If you want one book that explains how wildland fire, the **U.S. Forest Service**, **Gifford Pinchot**, and **Theodore Roosevelt** intersect, this is it.
+## Why read this
+A gripping narrative of the **Great Fire of 1910** in Idaho and Montana—and the political fight that forged American conservation. Egan ties wildfire, **Theodore Roosevelt**, **Gifford Pinchot**, and the early **U.S. Forest Service** into one page-turner of disaster and reform.
 
-### What it’s about (concise overview)
-Egan braids two stories: the young Forest Service fighting for survival in Washington, and the dry summer that set up a perfect storm in the Northern Rockies. When hurricane-force winds arrive, thousands of firefighters—immigrants, townspeople, soldiers—face firestorms that erase entire communities. The aftermath cements national support for the Forest Service and the idea of **public lands**. The book doubles as a primer on early wildfire policy, conservation politics, and the human costs of both.
+## What it’s about (concise overview)
+Two threads drive the book: the Forest Service’s struggle to survive in Washington, and the bone-dry summer that set the Northern Rockies ablaze. When hurricane-force winds arrive, towns and crews face firestorms; the aftermath reshapes federal wildfire policy and the idea of **public land**.
 
-### Table of contents (if readily available)
-TBD
+## Table of contents (from this copy)
 
-### Author & perspective
-Pulitzer-winning journalist **Timothy Egan** writes narrative history with strong scene work and crisp context. His perspective is sympathetic to TR and Pinchot’s conservation project while attentive to class, labor, and the West’s boomtown realities. Expect tight chapters, vivid profiles, and a reporter’s eye for detail.
+*Prologue* — **A Fire at the End of the World**, p. 1
 
-### Reception & impact
-A national bestseller often recommended alongside *The River of Doubt*. It helped popularize the backstory of the Forest Service and continues to be cited in discussions of western wildfire management and the politics of public land.
+**Part I — In on the Creation**  
+1. “A Peculiar Intimacy”, p. 17  
+2. Roost of the Robber Barons, p. 39  
+3. The Great Crusade, p. 53  
+4. Deadwood Days, p. 73  
+5. Showdown, p. 86  
 
-### Scope & style
-- **Scope:** American West, chiefly **Idaho & Montana, 1910**; Progressive Era conservation politics; origins of federal wildfire policy.  
-- **Style:** Narrative non-fiction; alternating political chapters and on-the-ground disaster reportage; maps/photos in many printings.  
-- **Reader experience:** Fast, cinematic, and explanatory—good for general readers and students alike.
+**Part II — What They Lost**  
+6. Summer of Smoke, p. 105  
+7. Men, Men, Men!, p. 116  
+8. Spaghetti Westerners, p. 129  
+9. Firestorm’s Eve, p. 141  
+10. Blowup, p. 154  
+11. The Lost Day, p. 158  
+12. The Lost Night, p. 172  
+13. Towns Afire, p. 187  
+14. To Save a Town, p. 201  
+15. The Missing, p. 211  
+16. The Living and the Dead, p. 227  
 
-### Publication & readership
-- **Type:** Trade **paperback** (First Mariner Books edition, 2010; originally HMH 2009).  
-- **Audience:** Readers of U.S. history, environmental history, and wildfire management; Roosevelt/Progressive Era enthusiasts.  
-- **Apparatus:** Notes, bibliography, and index (confirm specifics for this printing).
+**Part III — What They Saved**  
+17. Fallout, p. 239  
+18. One for the Boys, p. 249  
+19. Ashes, p. 263  
 
-### UDC subject classification (searchable)
-- **Primary:** `634.9` — Forestry (including forest conservation).  
-- **Secondary:** `94(73)` — United States history; `363.37` — Disasters (wildfires).  
-- **Notes:** Useful tags: *Great Fire of 1910; Northern Rockies; Gifford Pinchot; U.S. Forest Service; public lands; conservation politics*.
+**Back matter**  
+Notes on Sources, p. 287 • Acknowledgments, p. 307 • Index, p. 309
 
-### At-a-glance facts
-- Year: **2010** | Format: **PB** | ISBN(s): **978-0-618-96841-1; 978-0-547-39460-2** *(verify your copy’s back cover)*  
-- Dimensions (mm): H **TBD** × W **TBD** × T **TBD**  
-- Shelf location: **BookCase01 › Shelf 1 › Pos 13**
+::: details Show original TOC scans (optional)
+![Table of contents — page 1](BigBurn_Egan_TOC.jpg)  
+![Table of contents — page 2](BigBurn_Egan_TOC2.jpg)
+:::
 
-### Related items in this library
-- **BC01-S01-011** — *The River of Doubt* (Millard) — Roosevelt in the Amazon.  
-- **BC01-S01-012** — *The Age of Reform* (Hofstadter) — Progressive Era context.
+## Author & perspective
+Pulitzer-winning journalist **Timothy Egan** blends scene-driven storytelling with clear political context. Sympathetic to Roosevelt/Pinchot’s conservation project, he still foregrounds labor, class, and Western boomtown realities.
 
-### Notes
-CIP page lists both ISBNs; record whichever is printed on your copy’s **back cover** as the primary.
+## UDC subject classification (for search)
+- **Primary:** `634.9` — Forestry / Forest conservation  
+- **Secondary:** `94(73)` — U.S. history; `363.37` — Disasters (wildfires)  
+- **Tags:** Great Fire of 1910 • U.S. Forest Service • Pinchot • public lands • conservation politics
+
+## Publication details (this copy)
+Mariner Books (Houghton Mifflin Harcourt), **First Mariner Books edition 2010** (orig. 2009).  
+CIP page lists **ISBN 978-0-618-96841-1** and **978-0-547-39460-2 (pbk.)** — record the one printed on your back cover as primary.  
+Book design by Melissa Lotfy. Map by Jacques Chazaud.
+
+::: details Show copyright/CIP page (scan)
+![Copyright/CIP page](BigBurn_Egan_CopyRight.jpg)
+:::
+
+## Related volumes on this shelf
+- *The River of Doubt* (Millard) — Roosevelt in the Amazon  
+- *The Age of Reform* (Hofstadter) — Progressive Era backdrop  
+- *Freedom From Fear* (Kennedy) — U.S. political history context  
+- *We Are Lincoln Men* (Donald) — presidential friendships & politics
