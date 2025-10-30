@@ -43,6 +43,9 @@ Parkman’s classic narrative history of the 1763 Great Lakes–Ohio Valley upri
 
 </details>
 
+## Map (from front matter)
+![Map](ConspiracyOfPontiac_Parkman_Map.jpg)
+
 ## Author & perspective
 **Francis Parkman (1823–1893)**, Boston-born historian, wrote this work first in **1851** (revised **1870**). His prose is gripping, but his depictions reflect 19th-century racial attitudes. Use alongside modern scholarship for balance.
 
