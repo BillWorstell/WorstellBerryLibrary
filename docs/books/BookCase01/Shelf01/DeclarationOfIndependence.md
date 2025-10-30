@@ -1,67 +1,37 @@
 ---
-volume_id: "BC01-S01-TBD"
-title: "Declaration of Independence"
+volume_id: "BC01-S01-001"
+title: "The Declaration of Independence"
 subtitle: "Selections from the Bible — I Kings 21; II Samuel 11, 12"
-authors: "—"
-editors_translators: ""
-series: ""
-series_volume: ""
+authors: "Compiled edition (Great Books Foundation)"
 edition: ""
-publisher: ""
-pub_city: ""
-pub_year: ""
+publisher: "Henry Regnery Company for the Great Books Foundation"
+pub_city: "Chicago"
+pub_year: ""                 # year not shown—please verify on your copy
 isbn: ""
-format: ""
+format: "PB"
 pages: ""
-dimensions_mm:
-  height: ""
-  width: ""
-  thickness: ""
-location:
-  bookcase: "BookCase01"
-  shelf: "1"
-  section: ""
-  position: ""
-tags: ["Founding Documents", "Biblical Context", "Political Thought"]
-images:
-  title_page: ""
-  cover: ""
+dimensions_mm: { height: "", width: "", thickness: "" }
+location: { bookcase: "BookCase01", shelf: "1", section: "", position: "1" }
+tags: ["US History", "Founding", "Political Thought", "Sacred Texts", "Civic Education"]
+images: { title_page: "20251024_110617.jpg", cover: "20251024_110545.jpg" }
 classification:
-  udc_primary: ""
-  udc_secondary: []
-  notes: ""
-crossrefs: []
-last_verified: "2025-10-30"
+  udc_primary: '94(73)"1765/1783"'      # U.S. history—Revolutionary era (time span around 1776)
+  udc_secondary: ["342.4(73)", "2-9"]   # Constitutional/fundamental texts—USA; Sacred texts (general)  → refine if you use a detailed UDC table
+  notes: "Secondary UDCs can be specialized further (e.g., Old Testament passages). Adjust after consulting your preferred UDC table."
+crossrefs: ["BC01-S01-002", "BC01-S01-003"]
+last_verified: "2025-10-24"
 ---
 
-# *Declaration of Independence* — —
+# *The Declaration of Independence* + *Selections from the Bible* (Great Books Foundation)
 
-## Why read this
-Concise, 2–3 sentence note on why this volume matters to your shelf. Replace this placeholder.
+### Why read this
+A slim, teachable pairing that sets America’s **founding statement of political purpose** beside two **biblical narratives of abuse of power and moral judgment**. It’s a conversation starter about **authority, rights, and accountability**—perfect for seminars, family reading, or curriculum use.
 
-## What it's about (concise overview)
-One short paragraph summarizing the scope, time period, and perspective of the work. Replace this placeholder.
+### What it’s about (concise overview)
+The booklet prints the **Declaration of Independence (1776)** in full, then excerpts **1 Kings 21** (Naboth’s vineyard) and **2 Samuel 11–12** (David, Bathsheba, and Nathan’s rebuke). The juxtaposition invites readers to consider **natural rights**, **tyranny**, and **moral responsibility**—themes that informed early American political rhetoric.
 
-## Table of contents (from this copy)
-(Add chapter list here from your TOC scan or transcription.)
-
-::: details Show original TOC scans (optional)
-_No scans added yet._
-:::
-
-## Author & perspective
-A brief note on the author/editor and the lens they bring (e.g., scholarly synthesis, primary-source edition, participant-observer, etc.). Replace this placeholder.
-
-## UDC subject classification (for search)
-- (add primary)  
-- (add secondary)
-
-## Publication details (this copy)
-- Publisher/place/year:  — , 
-- ISBN: 
-- Format: ; pages: (add when known)
-- Images recorded for this copy: cover, title/verso (add TOC page scans when captured)
-
-## Related volumes on this shelf
-- American Sphinx (Ellis)
-- John Adams (McCullough)
+### Table of contents (from title/verso)
+- *The Declaration of Independence*  
+- *Selections from the Bible*:  
+  - **I Kings 21** — Ahab, Jezebel, and Naboth’s vineyard  
+  - **II Samuel 11–12** —
