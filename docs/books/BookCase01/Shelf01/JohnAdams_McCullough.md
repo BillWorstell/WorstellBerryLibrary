@@ -48,7 +48,7 @@ McCullough follows John Adams from his Massachusetts beginnings through the cris
 <details>
 <summary><strong>Show original TOC scans (optional)</strong></summary>
 
-[![able of contents — John Adams (McCullough) ](JohnAdams_McCullough_TOC)](JohnAdams_McCullough_TOC.jpg)  
+[![Table of contents — John Adams (McCullough) ](JohnAdams_McCullough_TOC)(JohnAdams_McCullough_TOC.jpg)  
 
 </details>
 
