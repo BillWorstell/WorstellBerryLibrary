@@ -46,9 +46,6 @@ McCullough follows John Adams from his Massachusetts beginnings through the cris
 
 ## Table of contents
 
-<!-- image located in docs/books/BookCase01/Shelf01/JohnAdams_McCullough_TOC.jpg -->
-![Table of contents — John Adams (McCullough)](JohnAdams_McCullough_TOC.jpg)
-
 <details>
 <summary><strong>Show original TOC scans (optional)</strong></summary>
 
