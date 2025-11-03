@@ -79,9 +79,6 @@ From England’s first footholds to the early 1990s, Gonick sketches politics, e
 
 </details>
 
-??? details "Show original TOC scan (optional)"
-    ![TOC scan](CartoonHistoryUnitedStates_TOC.jpg)
-
 ## Author & perspective
 **Larry Gonick** (b. 1946) is a cartoonist known for the *Cartoon Guide* series. His tone is witty and skeptical; perspective is broadly progressive and science-friendly, aimed at demystifying complex topics for general readers.
 

@@ -47,10 +47,12 @@ Rather than a cradle-to-grave chronicle, this is a **character study** built aro
 ---
 
 ## Table of contents
-![Table of contents — *American Sphinx* (Ellis)](AmericanSphinx_Ellis_TOC.jpg)
+<details>
+<summary><strong>Show original TOC scans (optional)</strong></summary>
 
-> If the image isn’t visible yet, run:
-> `Add-TocImage -Slug 'AmericanSphinx_Ellis' -ShelfPath 'docs/books/BookCase01/Shelf01'`
+[![Table of contents — *American Sphinx* (Ellis)](AmericanSphinx_Ellis_TOC.jpg)  
+
+</details>
 
 ## Related volumes on this shelf
 - [Declaration of Independence](DeclarationOfIndependence.md)

@@ -49,6 +49,12 @@ McCullough follows John Adams from his Massachusetts beginnings through the cris
 <!-- image located in docs/books/BookCase01/Shelf01/JohnAdams_McCullough_TOC.jpg -->
 ![Table of contents — John Adams (McCullough)](JohnAdams_McCullough_TOC.jpg)
 
+<details>
+<summary><strong>Show original TOC scans (optional)</strong></summary>
+
+[![able of contents — John Adams (McCullough) ](JohnAdams_McCullough_TOC)](JohnAdams_McCullough_TOC.jpg)  
+
+</details>
 **Part I: Revolution**
 - Ch. 1 — *The Road to Philadelphia*, p. 17  
 - Ch. 2 — *True Blue*, p. 78  
