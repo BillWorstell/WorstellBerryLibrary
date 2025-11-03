@@ -88,10 +88,9 @@ Nitze traces the evolution of American grand strategy and arms control across fo
 **Acknowledgments**, p. 481  
 **Index**
 
-::: details Show original TOC scans (optional)
-![Table of contents — page 1](HiroshimaToGlasnost_Nitze_TOC.jpg)
-![Table of contents — page 2](HiroshimaToGlasnost_Nitze_TOC2.jpg)
-:::
+???+ details "Show original TOC scans (optional)"
+    ![Table of contents — page 1](HiroshimaToGlasnost_Nitze_TOC.jpg)
+    ![Table of contents — page 2](HiroshimaToGlasnost_Nitze_TOC2.jpg)
 
 ## Author & perspective
 **Paul H. Nitze (1907–2004)** was a central architect of U.S. Cold War policy and later namesake of Johns Hopkins SAIS. Perspective: **participant‑observer**—analytic, sometimes blunt, often arguing for strength plus verifiable arms limits. Coauthors **Ann M. Smith** and **Steven L. Rearden** help stitch documents and memory into a clean narrative.
@@ -106,9 +105,10 @@ Nitze traces the evolution of American grand strategy and arms control across fo
 - **ISBN:** 1‑55584‑110‑4 (verso).  
 - **Notes:** Images of copyright/CIP page included below for verification.
 
-::: details Show copyright / CIP page (scan)
-![Copyright/CIP page — Grove Weidenfeld 1989](HiroshimaToGlasnost_Nitze_CopyRight.jpg)
-:::
+<details>
+<summary><strong>Show copyright / CIP page (scan)</strong></summary>
+[![Copyright/CIP page — Grove Weidenfeld 1989](HiroshimaToGlasnost_Nitze_CopyRight.jpg)](HiroshimaToGlasnost_Nitze_CopyRight.jpg)
+</details>
 
 ## Related volumes on this shelf
 - *Freedom from Fear* (Kennedy) — U.S. 1929–45 context for early Cold War
