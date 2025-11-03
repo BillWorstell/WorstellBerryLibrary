@@ -45,13 +45,13 @@ David McCullough turns the life of the often-underappreciated second U.S. presid
 McCullough follows John Adams from his Massachusetts beginnings through the crisis years of the Revolution, his diplomatic service in France and the Netherlands, the embattled vice-presidency, a single hard-won term as president, and a reflective retirement in Quincy. The book foregrounds Adams’s partnership with Abigail, his rivalry and reconciliation with Thomas Jefferson, and the messy work of creating institutions from scratch. It’s narrative history with an eye for character: principled, stubborn, funny, and sometimes wrong—Adams emerges as indispensable to American independence and statecraft.
 
 ## Table of contents
-
 <details>
 <summary><strong>Show original TOC scans (optional)</strong></summary>
 
 [![able of contents — John Adams (McCullough) ](JohnAdams_McCullough_TOC)](JohnAdams_McCullough_TOC.jpg)  
 
 </details>
+
 **Part I: Revolution**
 - Ch. 1 — *The Road to Philadelphia*, p. 17  
 - Ch. 2 — *True Blue*, p. 78  
