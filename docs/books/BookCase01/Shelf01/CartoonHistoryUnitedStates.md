@@ -72,6 +72,13 @@ From England’s first footholds to the early 1990s, Gonick sketches politics, e
 
 **Back matter** — *Bibliography*, p. **378** • *Index*, p. **381**
 
+<details>
+<summary><strong>Show original TOC scans (optional)</strong></summary>
+
+[![Table of contents ](CartoonHistoryUnitedStates_TOC)](CartoonHistoryUnitedStates_TOC.jpg)  
+
+</details>
+
 ??? details "Show original TOC scan (optional)"
     ![TOC scan](CartoonHistoryUnitedStates_TOC.jpg)
 
@@ -87,8 +94,12 @@ From England’s first footholds to the early 1990s, Gonick sketches politics, e
 - **ISBN:** 0-06-273098-3.  
 - **Notes:** Portions previously appeared in *Whole Earth Review* and in two earlier Harper & Row paperbacks (1987, 1988).
 
-??? details "Show copyright / CIP page (scan)"
-    ![Copyright/CIP page — HarperPerennial 1991](CartoonHistoryUnitedStates_CopyRight.jpg)
+<details>
+<summary><strong>Show copyright / CIP page (scan)</strong></summary>
+
+[![Copyright/CIP page — HarperPerennial 1991](CartoonHistoryUnitedStates_CopyRight.jpg)](CCartoonHistoryUnitedStates_CopyRight.jpg)
+
+</details>
 
 ## Related volumes on this shelf
 - *(stub)* Add neighbors and thematic links once other entries on Shelf 1 are finalized.
