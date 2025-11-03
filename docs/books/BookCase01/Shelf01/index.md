@@ -34,6 +34,8 @@
 - **S01-016 —** [Hiroshima to Glasnost (Nitze)](HiroshimaToGlasnost_Nitze.md)
 - **S01-017 —** [Camelot’s Court (Dallek)](CamelotsCourt_Dallek.md)
 
+### S01-018 … S01-018
+- **S01-018 —** [The Cartoon History of the United States (Gonick)](CartoonHistoryUnitedStates.md)
 ---
 
 ## Quick links to volumes (Alphabetical)
@@ -41,7 +43,7 @@
 - [American Sphinx (Ellis)](AmericanSphinx_Ellis.md)
 - [Big Burn (Egan)](BigBurn_Egan.md)
 - [Camelot’s Court (Dallek)](CamelotsCourt_Dallek.md)
-- [Conspiracy of Pontiac (Parkman)](ConspiracyOfPontiac_Parkman.md)
+- [Cartoon History of the United States (Gonick)](CartoonHistoryUnitedStates.md)
 - [Declaration of Independence](DeclarationOfIndependence.md)
 - [Elizabeth Cady Stanton](ElizabethCadyStanton.md)
 - [Freedom From Fear (Kennedy)](FreedomFromFear_Kennedy.md)
