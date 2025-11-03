@@ -84,6 +84,14 @@ From Lewis’s apprenticeship with **Thomas Jefferson** through the 1804–06 jo
 - **Bibliography**, p. 503  
 - **Index**, p. 507
 
+<details>
+<summary><strong>Show original TOC scans (optional)</strong></summary>
+
+[![Table of contents ](UndauntedCourage_Ambrose_TOC)](UndauntedCourage_Ambrose_TOC.jpg)  
+[![Table of contents ](UndauntedCourage_Ambrose_TOC2)](UndauntedCourage_Ambrose_TOC2.jpg)  
+
+</details>
+
 *Maps*
 - **The Lewis and Clark Expedition**, p. 82  
 - **Up the Missouri**, p. 142  

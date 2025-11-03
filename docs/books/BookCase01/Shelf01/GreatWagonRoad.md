@@ -96,6 +96,14 @@ Rouse reconstructs the **route, way stations, and communities** along the Great 
 - Notes — 277  
 - Index — 285
 
+<details>
+<summary><strong>Show original TOC scans (optional)</strong></summary>
+
+[![Table of contents ](GreatWagonRoad_TOC)](GreatWagonRoad_TOC.jpg)  
+[![Table of contents ](GreatWagonRoad_TOC2)](GreatWagonRoad_TOC2.jpg)  
+
+</details>
+
 > CIP notes: *American Trail series (New York), v. 11*; LC no. **72-8673**.
 
 ### Author & perspective
