@@ -50,9 +50,8 @@ Epilogue, p. 309 • Notes and Sources, p. 315 • Acknowledgments, p. 328 • I
 
 <summary><strong>Show original TOC scans (optional)</strong></summary>
 
-[![Table of contents — page 1](WorstHardTime_Egan_TOC.jpg)]
-[![Table of contents ](JournalsOfLewisClark_TOC2)](GJournalsOfLewisClark_TOC2.jpg)  
-
+[![Table of contents — page 1](WorstHardTime_Egan_TOC.jpg)](WorstHardTime_Egan_TOC.jpg)
+[![Table of contents — page 2](WorstHardTime_Egan_TOC2.jpg)](WorstHardTime_Egan_TOC2.jpg)
 </details>
 
 ## Author & perspective
