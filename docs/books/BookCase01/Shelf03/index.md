@@ -1,6 +1,6 @@
 # BookCase 01 — Shelf 03 (Overview)
 
-*Location:* `BookCase01 / Shelf03`  
+*Location:* `BookCase01 / Shelf01`  
 *Scope:* Reference-heavy U.S. history, exploration, biography, and related works.
 
 ![Shelf 3 photo](shelf3.jpg)

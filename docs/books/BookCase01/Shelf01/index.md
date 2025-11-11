@@ -40,16 +40,23 @@
 
 ## Quick links to volumes (Alphabetical)
 
-- [AgeOfChivalry](AgeOfChivalry.md)
-- [ClassicSlaveNarrative](ClassicSlaveNarrative.md)
-- [GulagArchipelago](GulagArchipelago.md)
-- [JamesCookJournals](JamesCookJournals.md)
-- [LastVoyageCaptainCook](LastVoyageCaptainCook.md)
-- [LifeTimesFrederickDouglas](LifeTimesFrederickDouglas.md)
-- [MadeInAmerica](MadeInAmerica.md)
-- [SalemWitchJudge](SalemWitchJudge.md)
-- [VaultsOfMemory_Brettman](VaultsOfMemory_Brettman.md)
-- [WesternEuropeMiddleAges](WesternEuropeMiddleAges.md)
+- [American Sphinx (Ellis)](AmericanSphinx_Ellis.md)
+- [Big Burn (Egan)](BigBurn_Egan.md)
+- [Camelot’s Court (Dallek)](CamelotsCourt_Dallek.md)
+- [Cartoon History of the United States (Gonick)](CartoonHistoryUnitedStates.md)
+- [Declaration of Independence](DeclarationOfIndependence.md)
+- [Elizabeth Cady Stanton](ElizabethCadyStanton.md)
+- [Freedom From Fear (Kennedy)](FreedomFromFear_Kennedy.md)
+- [Great Wagon Road (Rouse)](GreatWagonRoad.md)
+- [Hiroshima to Glasnost (Nitze)](HiroshimaToGlasnost_Nitze.md)
+- [John Adams (McCullough)](JohnAdams_McCullough.md)
+- [Journals of Lewis & Clark](JournalsOfLewisClark.md)
+- [River of Doubt (Millard)](RiverOfDoubt_Millard.md)
+- [Sacagawea](Sacagawea.md)
+- [Undaunted Courage (Ambrose)](UndauntedCourage_Ambrose.md)
+- [We Are Lincoln Men](WeAreLincolnMen.md)
+- [Worst Hard Time (Egan)](WorstHardTime_Egan.md)
+- [Age of Reform (Hofstadter)](AgeOfReform_Hofstadter.md)
 
 ---
 

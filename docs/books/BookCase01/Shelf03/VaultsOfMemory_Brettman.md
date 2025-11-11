@@ -24,10 +24,6 @@ Here’s a ready-to-drop-in **VaultsOfMemory.md** that follows the same “Card 
 
 ---
 
-## Title page
-
-![Title page — Vaults of Memory](VaultsOfMemory_Brettman_CopyRight.jpg)
-
 **Title‐page statement**
 *Vaults of Memory: Jewish and Christian Imagery in the Catacombs of Rome — An Exhibition*
 *Estelle Shohet Brettman* • *International Catacomb Society* • Boston, Massachusetts • 1985
@@ -44,8 +40,6 @@ Here’s a ready-to-drop-in **VaultsOfMemory.md** that follows the same “Card 
 
 ## Publication data & credits
 
-![Copyright / credits page](VaultsOfMemory_Brettman_CopyRight.jpg)
-
 * © 1985 Estelle S. Brettman; International Catacomb Society, 61 Beacon Street, Boston, MA 02108.
 * **Cover image**: Detail of sarcophagus fragment from the Jewish catacomb, *Vigna Randanini*.
 * **Frontispiece**: Vault painting from *cubicula* II, catacomb of Vigna Randanini.
@@ -59,8 +53,6 @@ Here’s a ready-to-drop-in **VaultsOfMemory.md** that follows the same “Card 
 > For verification and citation, use the photographed tables below. (OCR is intentionally **not** supplied here so the images remain the reference of record per Shelf01 practice.)
 
 ![Table of contents — page 1](VaultsOfMemory_Brettman_TOC.jpg)
-
-![Table of contents — page 2](VaultsOfMemory_Brettman_TOC2.jpg)
 
 ---
 

@@ -3,15 +3,7 @@
  *(The Oxford History of the United States, paperback ed., 2005)*
  
  ![Cover: *Freedom From Fear* (Kennedy)](./FreedomFromFear_Kennedy_Cover.jpg)
- 
- ## Table of contents
- - [Why read this](#why-read-this)
- - [What it’s about (concise overview)](#what-its-about-concise-overview)
- - [Table of contents (from this copy)](#table-of-contents-from-this-copy)
- - [Author & perspective](#author--perspective)
- - [UDC subject classification (for search)](#udc-subject-classification-for-search)
- - [Publication details (this copy)](#publication-details-this-copy)
- - [Related volumes on this shelf](#related-volumes-on-this-shelf)
+
  
  ## Why read this
  A sweeping, authoritative narrative of how the United States weathered the **Great Depression** and fought **World War II**, tracing everyday lives alongside high policy. If you want one volume that explains how the New Deal and the war remade the nation, this is the modern classic.

@@ -11,12 +11,11 @@
 ---
 
 ## Cover & prelims (reference images)
-- ![Cover](./images/GulagArchipelago_Cover.jpg)
-- ![Copyright / CIP](./images/GulagArchipelago_CopyRight.jpg)
+- ![Copyright / CIP](GulagArchipelago_CopyRight.jpg)
 
 > Additional pages for reference (optional):
-> - ![TOC 1](./images/GulagArchipelago_TOC.jpg)
-> - ![TOC 2](./images/GulagArchipelago_TOC2.jpg)
+> - ![TOC 1](GulagArchipelago_TOC.jpg)
+> - ![TOC 2](GulagArchipelago_TOC2.jpg)
 
 ---
 
