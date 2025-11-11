@@ -12,6 +12,7 @@ search box in the header to jump straight to a title, author, ISBN, or note.
 ### BookCase 01
 - **Shelf 01** → [Index](books/BookCase01/Shelf01/index.md)
 - **Shelf 02** → [Index](books/BookCase01/Shelf02/index.md)
+- **Shelf 03** → [Index](books/BookCase01/Shelf03/index.md)
 
 ---
 
