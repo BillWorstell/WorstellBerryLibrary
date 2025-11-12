@@ -3,7 +3,7 @@
 > **BookCase01 › Shelf03 › Volume 11**
 > Card Catalog entry, Shelf01 house-style.
 
-![Cover](./images/MakingOfThePresident1972_Cover.jpg)
+![Cover](MakingOfThePresident1972_Cover.jpg)
 
 ---
 
@@ -18,7 +18,7 @@
 * **Publisher:** (U.S. publisher not shown on captured page); **simultaneously in Canada by McClelland & Stewart Ltd.**
 * **Design / Production notes:** Designed by **Harry Ford**; manufactured in the U.S.A. by **H. Wolff, New York**; **Endpaper maps by Ava Morgan**.
 
-> ![Copyright](./images/MakingOfThePresident1972_CopyRight.jpg)
+> ![Copyright](MakingOfThePresident1972_CopyRight.jpg)
 
 ---
 
@@ -42,7 +42,7 @@
 14. **Temptation of Power** — 350
     **Appendix A** — 372 · **Appendix B** — 374 · **Index** — 375
 
-> ![TOC](./images/MakingOfThePresident1972_TOC.jpg)
+> ![TOC](MakingOfThePresident1972_TOC.jpg)
 
 ---
 
@@ -50,8 +50,8 @@
 
 Endpaper electoral maps (by **Ava Morgan**) for **1960**, **1964**, **1968**, **1972**.
 
-![Maps 1960/1964](./images/MakingOfThePresident1972_Map.jpg)
-![Maps 1968/1972](./images/MakingOfThePresident1972_Map2.jpg)
+![Maps 1960/1964](MakingOfThePresident1972_Map.jpg)
+![Maps 1968/1972](MakingOfThePresident1972_Map2.jpg)
 
 ---
 
