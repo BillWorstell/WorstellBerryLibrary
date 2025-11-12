@@ -27,6 +27,7 @@
 - [MadeInAmerica](MadeInAmerica.md)
 - [MakingAtomicBomb](MakingAtomicBomb.md)
 - [MakingOfThePresident1972](MakingOfThePresident1972.md)
+- [NextAmericanNation](NextAmericanNation.md)
 - [PentagonPapers](PentagonPapers.md)
 - [SalemWitchJudge](SalemWitchJudge.md)
 - [SixGreatIdeas](SixGreatIdeas.md)
