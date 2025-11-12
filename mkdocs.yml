@@ -71,8 +71,8 @@ nav:
       - Shelf 3:
           - Index: books/BookCase01/Shelf03/index.md
           - Age of Chivalry: books/BookCase01/Shelf03/AgeOfChivalry.md
+          - Boomerang: books/BookCase01/Shelf03/Boomerang.md
           - ClassicSlaveNarrative: books/BookCase01/Shelf03/ClassicSlaveNarrative.md
-          - Age of Chivalry: books/BookCase01/Shelf03/AgeOfChivalry.md
           - GulagArchipelago: books/BookCase01/Shelf03/GulagArchipelago.md
           - JamesCookJournals: books/BookCase01/Shelf03/JamesCookJournals.md
           - LastVoyageCaptainCook: books/BookCase01/Shelf03/LastVoyageCaptainCook.md
