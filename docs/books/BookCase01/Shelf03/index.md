@@ -16,6 +16,7 @@
 
 - [AgeOfChivalry](AgeOfChivalry.md)
 - [Boomerang](Boomerang.md)
+- [Bushisms](Bushisms.md)
 - [ClassicSlaveNarrative](ClassicSlaveNarrative.md)
 - [GulagArchipelago](GulagArchipelago.md)
 - [JamesCookJournals](JamesCookJournals.md)
@@ -27,7 +28,7 @@
 - [PentagonPapers](PentagonPapers.md)
 - [SalemWitchJudge](SalemWitchJudge.md)
 - [SixGreatIdeas](SixGreatIdeas.md)
-- [traightShooting](StraightShooting.md)
+- [StraightShooting](StraightShooting.md)
 - [USArmySurvivalManual](USArmySurvivalManual.md)
 - [VaultsOfMemory_Brettman](VaultsOfMemory_Brettman.md)
 - [WesternEuropeMiddleAges](WesternEuropeMiddleAges.md)
