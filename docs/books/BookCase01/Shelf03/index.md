@@ -27,6 +27,7 @@
 - [PentagonPapers](PentagonPapers.md)
 - [SalemWitchJudge](SalemWitchJudge.md)
 - [SixGreatIdeas](SixGreatIdeas.md)
+- [traightShooting](StraightShooting.md)
 - [USArmySurvivalManual](USArmySurvivalManual.md)
 - [VaultsOfMemory_Brettman](VaultsOfMemory_Brettman.md)
 - [WesternEuropeMiddleAges](WesternEuropeMiddleAges.md)
