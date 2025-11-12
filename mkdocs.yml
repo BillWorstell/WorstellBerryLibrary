@@ -71,6 +71,7 @@ nav:
       - Shelf 3:
           - Index: books/BookCase01/Shelf03/index.md
           - Age of Chivalry: books/BookCase01/Shelf03/AgeOfChivalry.md
+          - BigLies: books/BookCase01/Shelf03/BigLies.md
           - Boomerang: books/BookCase01/Shelf03/Boomerang.md
           - Bushisms: books/BookCase01/Shelf03/Bushisms.md
           - CandidateKerry: books/BookCase01/Shelf03/CandidateKerry.md
