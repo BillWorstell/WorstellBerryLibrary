@@ -17,6 +17,7 @@
 - [AgeOfChivalry](AgeOfChivalry.md)
 - [Boomerang](Boomerang.md)
 - [Bushisms](Bushisms.md)
+- [CandidateKerry](CandidateKerry.md)
 - [ClassicSlaveNarrative](ClassicSlaveNarrative.md)
 - [GulagArchipelago](GulagArchipelago.md)
 - [JamesCookJournals](JamesCookJournals.md)
