@@ -81,9 +81,15 @@ This volume presents biographical profiles of eighteen major Barbadian figures w
 </details>
 
 <details>
-<summary><strong>Click to display Table of Contents scan (optional)</strong></summary>
+<summary><strong>Click to display Table of Contents scan Page 1 (optional)</strong></summary>
 
 ![Table of Contents](BuildersOfBarbados_TOC.jpg)  
-![Table of Contents continued](BuildersOfBarbados_TOC2.jpg)
+
+</details>
+
+details>
+<summary><strong>Click to display Table of Contents scan Page 2 (optional)</strong></summary>
+
+![Table of Contents](BuildersOfBarbados_TOC2.jpg)  
 
 </details>
