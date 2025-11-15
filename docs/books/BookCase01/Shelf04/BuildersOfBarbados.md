@@ -79,7 +79,7 @@ This volume presents biographical profiles of eighteen major Barbadian figures w
 </details>
 
 <details>
-<summary><strong>lick to display copyright page (optional)</strong></summary>
+<summary><strong>Click to display copyright page (optional)</strong></summary>
 
 ![CopyRight](BuildersOfBarbados_CopyRight.jpg)  
 
