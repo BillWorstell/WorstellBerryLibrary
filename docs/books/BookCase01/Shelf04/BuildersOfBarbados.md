@@ -9,6 +9,8 @@
 **Printing**: Printed in Hong Kong
 **Copyright**: © F.A. Hoyos 1972
 
+<![Cover](BuildersOfBarbados_Cover.jpg)  
+
 ## Summary
 
 This volume presents biographical profiles of eighteen major Barbadian figures who played pivotal roles in the shaping of Barbadian society. Spanning the eighteenth to the twentieth century, these individuals include humanitarians, politicians, judges, educators, reformers, and statesmen. Hoyos’ work captures both the evolving colonial context and the movement toward social reform, emancipation, and independence.
@@ -70,13 +72,6 @@ This volume presents biographical profiles of eighteen major Barbadian figures w
 *Errol Walton Barrow (1920– )* — *Architect of Independence* — Page 136
 
 ---
-
-<details>
-<summary><strong>Click to display book cover (optional)</strong></summary>
-
-![Cover](BuildersOfBarbados_Cover.jpg)  
-!
-</details>
 
 <details>
 <summary><strong>Click to display copyright page (optional)</strong></summary>
