@@ -13,4 +13,6 @@
 ## Quick links to volumes (Alphabetical)
 
 - [1991Caribbean](1991Caribbean.md)
-- [MakingOfTheWestIndies](MakingOfTheWestIndies.md
+- [MakingOfTheWestIndies](MakingOfTheWestIndies.md)
+- [BermudasStory](BermudasStory.md)
+- [BarbadosAmericanConnection](BarbadosAmericanConnection.md)
