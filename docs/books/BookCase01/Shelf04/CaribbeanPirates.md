@@ -119,7 +119,7 @@ This compact historical survey by Warren Alleyne chronicles the dramatic lives a
 </details>
 
 <details>
-<summary><strong>Click to display table of contents (optional)</strong></summary>
+<summary><strong>Click to display table of contents Pa(optional)</strong></summary>
 
 ![Table of Contents](CaribbeanPirates_TOC.jpg)  
 
