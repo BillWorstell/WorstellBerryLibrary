@@ -92,3 +92,8 @@ nav:
           - USArmySurvivalManual: books/BookCase01/Shelf03/USArmySurvivalManual.md
           - VaultsOfMemory_Brettman: books/BookCase01/Shelf03/VaultsOfMemory_Brettman.md
           - WesternEuropeMiddleAges: books/BookCase01/Shelf03/WesternEuropeMiddleAges.md
+
+      - Shelf 4:
+          - Index: books/BookCase01/Shelf04/index.md
+          - 1991Caribbean: books/BookCase01/Shelf04/1991Caribbean.md
+ 
