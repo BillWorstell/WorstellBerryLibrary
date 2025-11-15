@@ -19,3 +19,4 @@
 - [BuildersOfBarbados](BuildersOfBarbados.md)
 - [CaribbeanPirates](CaribbeanPirates.md)
 - [Wayland](Wayland.md)
+- [WaylandLocals](WaylandLocals.md)
