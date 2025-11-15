@@ -16,3 +16,4 @@
 - [MakingOfTheWestIndies](MakingOfTheWestIndies.md)
 - [BermudasStory](BermudasStory.md)
 - [BarbadosAmericanConnection](BarbadosAmericanConnection.md)
+- [BuildersOfBarbados_Cover](BuildersOfBarbados.md)
