@@ -22,3 +22,4 @@
 - [WaylandLocals](WaylandLocals.md)
 - [WaysideInn](WaysideInn.md)
 - [ThoreausWalden](ThoreausWalden.md)
+- [AlongHistoricRoute20](AlongHistoricRoute20.md)
