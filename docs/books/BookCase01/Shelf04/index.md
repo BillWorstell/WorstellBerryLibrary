@@ -20,3 +20,5 @@
 - [CaribbeanPirates](CaribbeanPirates.md)
 - [Wayland](Wayland.md)
 - [WaylandLocals](WaylandLocals.md)
+- [WaysideInn](WaysideInn.md)
+- [ThoreausWalden](ThoreausWalden.md)
