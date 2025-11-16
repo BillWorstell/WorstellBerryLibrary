@@ -27,3 +27,5 @@
 - [Oh No We're Gonna Die](OhNoGonnaDie.md)
 - [Sequoia National Park](SequoiaNationalPark.md)
 - [Strasbourg](Strasbourg.md)
+- [Astronomical Clock](AstronomicalClock.md)
+- [Avila](Avila.md)
