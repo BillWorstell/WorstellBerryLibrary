@@ -25,3 +25,5 @@
 - [Along Historic Route 20](AlongHistoricRoute20.md)
 - [Geography Of Bliss](GeographyOfBliss.md)
 - [Oh No We're Gonna Die](OhNoGonnaDie.md)
+- [Sequoia National Park](SequoiaNationalPark.md)
+- [Strasbourg](Strasbourg.md)
