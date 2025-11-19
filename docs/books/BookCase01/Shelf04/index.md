@@ -29,3 +29,5 @@
 - [Strasbourg](Strasbourg.md)
 - [Astronomical Clock](AstronomicalClock.md)
 - [Avila](Avila.md)
+- [SanMarcoMuseumFlorence](SanMarcoMuseumFlorence.md)
+- [SantaMariaNovellaFlorence](SantaMariaNovellaFlorence_.md)
