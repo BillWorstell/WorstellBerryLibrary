@@ -33,3 +33,5 @@
 - [SantaMariaNovellaFlorence](SantaMariaNovellaFlorence.md)
 - [VeniceGuidebook](VeniceGuidebook.md)
 - [SanMarcoBasilicaVenice](SanMarcoBasilicaVenice.md)
+- [CapitolineMuseumRome](CapitolineMuseumRome.md)
+- [BorgheseGallery](BorgheseGallery.md)
