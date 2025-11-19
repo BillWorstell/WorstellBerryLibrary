@@ -31,3 +31,5 @@
 - [Avila](Avila.md)
 - [SanMarcoMuseumFlorence](SanMarcoMuseumFlorence.md)
 - [SantaMariaNovellaFlorence](SantaMariaNovellaFlorence.md)
+- [VeniceGuidebook](VeniceGuidebook.md)
+- [SanMarcoBasilicaVenice](SanMarcoBasilicaVenice.md)
