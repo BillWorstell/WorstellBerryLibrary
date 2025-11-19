@@ -35,3 +35,6 @@
 - [SanMarcoBasilicaVenice](SanMarcoBasilicaVenice.md)
 - [CapitolineMuseumRome](CapitolineMuseumRome.md)
 - [BorgheseGallery](BorgheseGallery.md)
+- [MuseoDiVillaGuilia](MuseoDiVillaGuilia.md)
+- [VilladEste](VilladEste.md)
+- [SicilyArcheologicalGuide](SicilyArcheologicalGuide)
