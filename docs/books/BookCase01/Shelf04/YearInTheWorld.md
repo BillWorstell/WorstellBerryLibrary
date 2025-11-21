@@ -10,10 +10,10 @@
 
 ## Front Matter
 
-- **Cover:** ![Cover Image](/mnt/data/YearInTheWorld_Cover.jpg)
-- **Title Page:** ![Title Page](/mnt/data/YearInTheWorld_Title.jpg)
-- **Map:** ![Illustrated Map](/mnt/data/YearInTheWorld_Map.jpg)
-- **Copyright Page:** ![Copyright Page](/mnt/data/YearInTheWorld_CopyRight.jpg)
+- **Cover:** ![Cover Image](YearInTheWorld_Cover.jpg)
+- **Title Page:** ![Title Page](YearInTheWorld_Title.jpg)
+- **Map:** ![Illustrated Map](YearInTheWorld_Map.jpg)
+- **Copyright Page:** ![Copyright Page](YearInTheWorld_CopyRight.jpg)
 
 ---
 
