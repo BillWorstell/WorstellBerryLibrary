@@ -48,10 +48,19 @@
 - **S04-031 _** [Let's Go Italy 1989](LetsGoItaly1989.md)
 - **S04-032 _** [Real Guide Italy](RealGuideItaly.md)
 - **S04-033 _** [Italian Days](ItalianDays.md)
+- **S04-034 _** [Sicily Art Treasures](SicilyArtTreasures.md)
+
+### S04-35 … S04-039: Miscellaneous Travel
+- **S04-035 —** [1000 Places To See Before You Die](1000PlacesToSeeBeforeYouDie.md)
+- **S04-036 —** [Etruscan Places](EtruscanPlaces.md)
+- **S04-037 —** [The Mother Sea](MotherSea.md)
+- **S04-038 _** [A Year In The World](YearInTheWorld.md)
+- **S04-039 _** [Forbidden Purple City](ForbiddenPurpleCity.md)
 ---
 
 ## Quick links to volumes (Alphabetical)
 
+- [1000 Places To See Before You Die](1000PlacesToSeeBeforeYouDie.md)
 - [1991 Caribbean](1991Caribbean.md)
 - [Along Historic Route 20](AlongHistoricRoute20.md)
 - [Astronomical Clock](AstronomicalClock.md)
@@ -67,6 +76,7 @@
 - [Geography Of Bliss](GeographyOfBliss.md)
 - [Italian Days](ItalianDays.md)
 - [Let's Go Italy 1989](LetsGoItaly1989.md)
+- [Life in the Forbidden Purple City](ForbiddenPurpleCity.md)
 - [The Making Of The West Indies](MakingOfTheWestIndies.md)
 - [The Mother Sea](MotherSea.md)
 - [Museo Di Villa Guilia](MuseoDiVillaGuilia.md)
@@ -77,6 +87,7 @@
 - [San Marco Basilica Venice](SanMarcoBasilicaVenice.md)
 - [Sequoia National Park](SequoiaNationalPark.md)
 - [Sicily Archeological Guide](SicilyArcheologicalGuide)
+- [Sicily Art Treasures](SicilyArtTreasures.md)
 - [Strasbourg](Strasbourg.md)
 - [Thoreau's Walden](ThoreausWalden.md)
 - [Venice Guidebook](VeniceGuidebook.md)
@@ -84,3 +95,4 @@
 - [Wayland](Wayland.md)
 - [Wayland Locals](WaylandLocals.md)
 - [Wayside Inn](WaysideInn.md)
+- [A Year In The World](YearInTheWorld)
