@@ -41,11 +41,13 @@
 - **S04-026 —** [Museo Di Villa Guilia](MuseoDiVillaGuilia.md)
 - **S04-027 —** [Villa d'Este](VilladEste.md)
 
-### S04-028 … S04-027: Italy Travel
+### S04-028 … S04-034: Italy Travel
 - **S04-028 —** [Sicily Archeological Guide](SicilyArcheologicalGuide.md)
 - **S04-029 —** [Etruscan Places](EtruscanPlaces.md)
 - **S04-030 —** [The Mother Sea](MotherSea.md)
-
+- **S04-031 _** [Let's Go Italy 1989](LetsGoItaly1989.md)
+- **S04-032 _** [Real Guide Italy](RealGuideItaly.md)
+- **S04-033 _** [Italian Days](ItalianDays.md)
 ---
 
 ## Quick links to volumes (Alphabetical)
@@ -63,10 +65,13 @@
 - [Caribbean Pirates](CaribbeanPirates.md)
 - [Etruscan Places](EtruscanPlaces.md)
 - [Geography Of Bliss](GeographyOfBliss.md)
+- [Italian Days](ItalianDays.md)
+- [Let's Go Italy 1989](LetsGoItaly1989.md)
 - [The Making Of The West Indies](MakingOfTheWestIndies.md)
 - [The Mother Sea](MotherSea.md)
 - [Museo Di Villa Guilia](MuseoDiVillaGuilia.md)
 - [Oh No We're Gonna Die](OhNoGonnaDie.md)
+- [RealGuideItaly](RealGuideItaly.md)
 - [San Marco Museum Florence](SanMarcoMuseumFlorence.md)
 - [Santa Maria Novella Florence](SantaMariaNovellaFlorence.md)
 - [San Marco Basilica Venice](SanMarcoBasilicaVenice.md)
