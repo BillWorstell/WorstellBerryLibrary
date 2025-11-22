@@ -135,4 +135,4 @@ nav:
   - BookCase 02:
       - Index: books/BookCase02/Shelf01/index.md
       - Shelf 1 (top shelf):
-          - Index: books/BookCase01/Shelf01/index.md
+          - Index: books/BookCase02/Shelf01/index.md
