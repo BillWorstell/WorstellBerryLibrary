@@ -1,9 +1,9 @@
 # BookCase 02 (Humanities, Law, and Business)
 
 *Location:* `BookCase02`  
-*Scope:* Reference-heavy Philosophy and Classics
+*Scope:* Philosophy and Classics
 
-![Bookcase02 photo](Bookcase02.jpg)
+![BookCase02 photo](BookCase02.jpg)
 
 ## Shelf00: Passover Haggadahs
 
