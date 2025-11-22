@@ -132,7 +132,3 @@ nav:
           - YearInTheWorld: books/BookCase01/Shelf04/YearInTheWorld.md
           - ForbiddenPurpleCity: books/BookCase01/Shelf04/ForbiddenPurpleCity.md
 
-  - BookCase 02:
-      - Index: books/BookCase02/Shelf01/index.md
-      - Shelf 1 (top shelf):
-          - Index: books/BookCase02/Shelf01/index.md
