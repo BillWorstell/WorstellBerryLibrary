@@ -21,7 +21,7 @@ nav:
   - Home: index.md                    # (docs/index.md). Keep or replace with your own landing page.
 
   - BookCase 01:
-      - Index: books/BookCase01/Shelf01/index.md
+      - Index: books/BookCase01/index.md
       - Shelf 1 (top shelf):
           - Index: books/BookCase01/Shelf01/index.md
           - ReadMe: books/BookCase01/Shelf01/ReadMe.md
@@ -131,3 +131,8 @@ nav:
           - 1000PlacesToSeeBeforeYouDie: books/BookCase01/Shelf04/1000PlacesToSeeBeforeYouDie.md
           - YearInTheWorld: books/BookCase01/Shelf04/YearInTheWorld.md
           - ForbiddenPurpleCity: books/BookCase01/Shelf04/ForbiddenPurpleCity.md
+
+  - BookCase 02:
+      - Index: books/BookCase02/Shelf01/index.md
+      - Shelf 1 (top shelf):
+          - Index: books/BookCase01/Shelf01/index.md
