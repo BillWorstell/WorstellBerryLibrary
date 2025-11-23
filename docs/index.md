@@ -9,11 +9,11 @@ search box in the header to jump straight to a title, author, ISBN, or note.
 
 ## Browse by Location
 
-### BookCase 01
-- **Shelf 01** → [Index](books/BookCase01/Shelf01/index.md)
-- **Shelf 02** → [Index](books/BookCase01/Shelf02/index.md)
-- **Shelf 02** → [Index](books/BookCase01/Shelf03/index.md)
-- **Shelf 04** → [Index](books/BookCase01/Shelf04/index.md)
+- **BookCase01: History and Travel** → [Index](books/BookCase01/index.md)
+***Shelf01: US History***
+***Shelf02: World History***
+***Shelf03: Various Early History and Mid to Late 20th US Politics***
+***Shelf04: Travel and International History***
 
 ---
 
