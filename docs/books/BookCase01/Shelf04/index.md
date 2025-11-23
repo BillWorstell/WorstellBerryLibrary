@@ -20,7 +20,7 @@
 - **S04-009 —** [Wayland Locals](WaylandLocals.md)
 - **S04-010 —** [Wayside Inn](WaysideInn.md)
 - **S04-011 —** [Thoreau's Walden](ThoreausWalden.md)
-- **S04-012 —** [BostonWhereItAllBegan](BostonWhereItAllBegan)
+- **S04-012 —** [BostonWhereItAllBegan](BostonWhereItAllBegan.md)
 - **S04-013 —** [Along Historic Route 20](AlongHistoricRoute20.md)
 
 ### S04-014 … S04-019: Miscellaneous

@@ -17,7 +17,7 @@
 
 ## 📘 Cover
 
-![Cover - Capitoline Museums Rome](/mnt/data/CapitolineMuseumRome_Cover.jpg)
+![Cover - Capitoline Museums Rome](CapitolineMuseumRome_Cover.jpg)
 
 ---
 
@@ -25,7 +25,7 @@
 
 ### Capitoline Museum – Ground and First Floor
 
-![Map 1 - Capitoline Museum Layout](/mnt/data/CapitolineMuseumRome_Map.jpg)
+![Map 1 - Capitoline Museum Layout](CapitolineMuseumRome_Map.jpg)
 
 **Ground Floor:**
 
@@ -50,7 +50,7 @@
 
 ### Halls of Palazzo dei Conservatori & Art Gallery
 
-![Map 2 - Palazzo dei Conservatori and Art Gallery](/mnt/data/CapitolineMuseumRome_Map2.jpg)
+![Map 2 - Palazzo dei Conservatori and Art Gallery](CapitolineMuseumRome_Map2.jpg)
 
 **Palazzo dei Conservatori Highlights:**
 
