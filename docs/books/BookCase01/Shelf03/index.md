@@ -3,7 +3,7 @@
 *Location:* `BookCase01 / Shelf03`  
 *Scope:* Reference-heavy U.S. history, exploration, biography, and related works.
 
-![Shelf 3 photo](shelf3.jpg)
+![Shelf 3 photo](BookCase01Shelf03.jpg)
 
 ---
 ## Quick links to volumes (left-to-right by shelf ID)

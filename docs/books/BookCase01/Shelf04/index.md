@@ -1,7 +1,7 @@
 *Location:* `BookCase01 / Shelf04`  
 *Scope:* Reference-Travel and International History.
 
-![Shelf 4 photo](shelf4.jpg)
+![Shelf 4 photo](BookCase01Shelf04.jpg)
 
 ---
 

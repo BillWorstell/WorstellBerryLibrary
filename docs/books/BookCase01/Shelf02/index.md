@@ -3,6 +3,7 @@
 *Location:* `BookCase01 / Shelf02`  
 *Scope:* World history with emphasis on Britain, Israel/Middle East, Russia/USSR, WWII, and cartoon histories; plus a few provenance notes.
 
+![Shelf 2 photo](BookCase01Shelf02.jpg)
 ---
 
 ## Quick links to volumes (left-to-right by shelf ID)
