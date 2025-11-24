@@ -9,7 +9,20 @@ search box in the header to jump straight to a title, author, ISBN, or note.
 
 ## Browse by Location
 
-- **BookCase01: History and Travel** → [Index](books/BookCase01/index.md)
+### BookCase03: Philosophy, Religion, Law and Business → [Index](books/BookCase03/index.md)
+#### Shelf01: US History
+#### Shelf02: World History
+#### Shelf03: Various Early History and Mid to Late 20th US Politics
+#### Shelf04: Travel and International History
+
+### BookCase03: Philosophy, Religion, Law and Business → [Index](books/BookCase03/index.md)
+#### Shelf00: Passover Haggadah
+#### Shelf01: Philosophy
+#### Shelf02: World History
+#### Shelf03: Various Early History and Mid to Late 20th US Politics
+#### Shelf04: Travel and International History
+
+- **BookCase03: BookCase03: Philosophy, Religion, Law and Business** → [Index](books/BookCase01/index.md)
 ***Shelf01: US History***
 ***Shelf02: World History***
 ***Shelf03: Various Early History and Mid to Late 20th US Politics***
