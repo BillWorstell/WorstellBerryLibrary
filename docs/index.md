@@ -7,7 +7,7 @@ search box in the header to jump straight to a title, author, ISBN, or note.
 
 ---
 
-![Basement Book Cases](books/BasementBookCases.pdf)  
+![Basement Book Cases](books/BasementBookCases.jpg)  
 
 ## Browse by Location
 
