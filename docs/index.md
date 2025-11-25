@@ -19,10 +19,11 @@ search box in the header to jump straight to a title, author, ISBN, or note.
 
 ### BookCase03: Philosophy, Religion, Law and Business → [Index](books/BookCase03/index.md)
 #### Shelf00: Passover Haggadah
-#### Shelf01: Philosophy
-#### Shelf02: World History
-#### Shelf03: Various Early History and Mid to Late 20th US Politics
-#### Shelf04: Travel and International History
+#### Shelf01: Philosophy, Greek and Latin Classics, and Occult Pseudoscience
+#### Shelf02: Social Sciences, Justice, and Etiquette
+#### Shelf03: Jewish Thought, Politics and History
+#### Shelf04: Massachusetts Law and Business
+#### Shelf05: Law Summaries and References
 
 ---
 

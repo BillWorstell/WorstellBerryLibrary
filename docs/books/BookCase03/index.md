@@ -30,13 +30,13 @@
 #### S03-016 … S03-023: Jewish History Atlases and References
 #### S03-024 … S03-024: Jewish Sacred Texts and Liturgy
 
-![Massachusetts Law and Business](Shelf04/BookCase03Shelf04.jpg)  
-<!--### Shelf04: Massachusetts Law and Business → [Index](Shelf04/index.md)-->
+![Shelf04: Massachusetts Law and Business](Shelf04/BookCase03Shelf04.jpg)  
+### Shelf04: Massachusetts Law and Business → [Index](Shelf04/index.md)
 #### S04-001 … S01-010: Massachusetts Law
 #### S04-011 … S04-027: Business, Marketing, and Lawyering
 
 ![Law Summaries and References](Shelf05/BookCase03Shelf05.jpg)  
-<!--### Shelf05: Law Summaries and References → [Index](Shelf05/index.md)-->
+### Shelf05: Law Summaries and References → [Index](Shelf05/index.md)
 #### S05-001 … S01-012: Law Summaries
 #### S05-013 … S04-023: Massachusetts Law References
 #### S05-024 … S04-028: Law References
