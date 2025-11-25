@@ -7,6 +7,8 @@ search box in the header to jump straight to a title, author, ISBN, or note.
 
 ---
 
+![Basement Book Cases](Shelf02/BasementBookCases.pdf)  
+
 ## Browse by Location
 
 ### BookCase01: History and Travel → [Index](books/BookCase01/index.md)
