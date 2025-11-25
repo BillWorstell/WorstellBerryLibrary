@@ -9,7 +9,7 @@ search box in the header to jump straight to a title, author, ISBN, or note.
 
 ## Browse by Location
 
-### BookCase03: Philosophy, Religion, Law and Business → [Index](books/BookCase03/index.md)
+### BookCase01: History and Travel → [Index](books/BookCase01/index.md)
 #### Shelf01: US History
 #### Shelf02: World History
 #### Shelf03: Various Early History and Mid to Late 20th US Politics
