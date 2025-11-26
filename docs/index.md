@@ -17,6 +17,11 @@ search box in the header to jump straight to a title, author, ISBN, or note.
 #### Shelf03: Various Early History and Mid to Late 20th US Politics → [Index](books/BookCase01/Shelf03/index.md)
 #### Shelf04: Travel and International History → [Index](books/BookCase01/Shelf04/index.md)
 
+### BookCase02: BookCase02: Books from Upstairs Bedrooms → [Index](books/BookCase02/index.md)
+#### Shelf01: Daniel's Bedroom Books 
+#### Shelf02: Shelf02: Bill's Bedroom Books 
+#### Shelf03: Pam's Bedroom Books 
+
 ### BookCase03: Philosophy, Religion, Law and Business → [Index](books/BookCase03/index.md)
 #### Shelf00: Passover Haggadah
 #### Shelf01: Philosophy, Greek and Latin Classics, and Occult Pseudoscience
