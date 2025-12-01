@@ -30,6 +30,10 @@ search box in the header to jump straight to a title, author, ISBN, or note.
 #### Shelf04: Massachusetts Law and Business
 #### Shelf05: Law Summaries and References
 
+### BookCase04: Religion and Sacred Texts → [Index](books/BookCase04/index.md)
+#### Shelf01: Religion
+#### Shelf02: Sacred Texts
+
 ---
 
 ## Plans / Roadmap
