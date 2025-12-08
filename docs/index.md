@@ -34,6 +34,15 @@ search box in the header to jump straight to a title, author, ISBN, or note.
 #### Shelf01: Religion
 #### Shelf02: Sacred Texts
 
+### BookCase07: Maps, Travel, and Oversize → [Index](books/BookCase07/index.md)
+#### Shelf00: Maps, Travel, and Oversize
+
+
+### BookCase08: Languages and Literature → [Index](books/BookCase08/index.md)
+#### Shelf00: Short Story, Essay, and Poetry Anthologies
+#### Shelf01: Spanish, Italian, French and German
+#### Shelf02: English and American English Literature
+#### Shelf03: Spanish, French, and Italian Literature
 ---
 
 ## Plans / Roadmap

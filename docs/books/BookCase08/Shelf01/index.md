@@ -1,4 +1,4 @@
-*Location:* `BookCase03 / Shelf01`  
-*Scope:* Philosophy, Greek and Latin Classics, and Occult Pseudoscience.
+*Location:* `BookCase08 / Shelf01`  
+*Scope:* Spanish, Italian, French and German
 
-![Shelf 1 photo](BookCase03Shelf01.jpg)
+![Shelf 1 photo](BookCase08Shelf01.jpg)

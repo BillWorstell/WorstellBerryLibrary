@@ -1,4 +1,4 @@
-*Location:* `BookCase03 / Shelf00`  
-*Scope:* Passover Haggadahs.
+*Location:* `BookCase07 / Shelf00`  
+*Scope:* Maps, Travel, and Oversize
 
-![Shelf 0 photo](BookCase03Shelf00.jpg)
+![Shelf 0 photo](BookCase07Shelf00.jpg)

@@ -1,4 +1,4 @@
-*Location:* `BookCase03 / Shelf04`  
-*Scope:* Massachusetts Law and Business
+*Location:* `BookCase08 / Shelf04`  
+*Scope:* Workbooks, Study Guides, and Hebrew
 
-![Shelf 4 photo](BookCase03Shelf04.jpg)
+![Shelf 4 photo](BookCase08Shelf04.jpg)

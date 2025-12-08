@@ -3,7 +3,7 @@
 ![BookCase04: Religion and Sacred Texts](BookCase04.jpg)  
 
 ![Shelf01: Religion ](Shelf01/BookCase04Shelf01.jpg)  
-### Shelf01: Religion → [Index](Shelf0/index.md)
+### Shelf01: Religion → [Index](Shelf01/index.md)
 #### S01-001 : The Jesus Party
 #### S01-002 : The Book of Job
 #### S01-003 : Who wrote the Bible?

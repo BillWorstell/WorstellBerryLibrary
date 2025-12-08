@@ -1,4 +1,4 @@
-*Location:* `BookCase03 / Shelf03`  
-*Scope:* Jewish Thought, Politics and History
+*Location:* `BookCase08 / Shelf02`  
+*Scope:* English and American English Literature
 
-![Shelf 2 photo](BookCase03Shelf02.jpg)
+![Shelf 2 photo](BookCase08Shelf02.jpg)
