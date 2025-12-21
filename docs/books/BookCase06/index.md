@@ -1,5 +1,5 @@
-## BookCase06: Philosophy, Religion, Law and Business->
-![BookCase06: Philosophy, Religion, Law and Business](BookCase03.jpg)  
+## BookCase06: Medicine, Math and Sciences->
+![BookCase06: Medicine, Math and Sciences](BookCase06.jpg)  
 
 ![Shelf00: Biology, Physiology, and Oversize](Shelf00/BookCase03Shelf00.jpg)  
 ### Shelf00: Biology, Physiology, and Oversize→ [Index](Shelf00/index.md)

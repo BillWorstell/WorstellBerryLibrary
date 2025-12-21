@@ -17,5 +17,5 @@
 ![Shelf04: Biology and Physical Anthropology](Shelf04/BookCase05Shelf04.jpg)  
 ### Shelf04: Biology and Physical Anthropology → [Index](Shelf04/index.md)
 
-![Shelf05: Science Fiction](Shelf04/BookCase05Shelf05.jpg)  
+![Shelf05: Science Fiction](Shelf05/BookCase05Shelf05.jpg)  
 ### Shelf05: Science Fiction → [Index](Shelf05/index.md)
