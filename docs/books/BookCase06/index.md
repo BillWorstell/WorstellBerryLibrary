@@ -1,7 +1,7 @@
 ## BookCase06: Medicine, Math and Sciences->
 ![BookCase06: Medicine, Math and Sciences](BookCase06.jpg)  
 
-![Shelf00: Biology, Physiology, and Oversize](Shelf00/BookCase03Shelf00.jpg)  
+![Shelf00: Biology, Physiology, and Oversize](Shelf00/BookCase06Shelf00.jpg)  
 ### Shelf00: Biology, Physiology, and Oversize→ [Index](Shelf00/index.md)
 
 ![Shelf01: Medicine, Imaging, and Technology History ](Shelf01/BookCase06Shelf01.jpg)  
