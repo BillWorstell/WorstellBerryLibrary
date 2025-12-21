@@ -34,9 +34,16 @@ search box in the header to jump straight to a title, author, ISBN, or note.
 #### Shelf01: Religion
 #### Shelf02: Sacred Texts
 
+### BookCase05: Science and Mathematics → [Index](books/BookCase05/index.md)
+#### Shelf00: Mathematics
+#### Shelf01: Computer Science
+#### Shelf02: Cartoon Science, Electronics, and Particle Physics
+#### Shelf03: Physics
+#### Shelf04: Biology and Physical Anthropology
+#### Shelf05: Science Fiction
+
 ### BookCase07: Maps, Travel, and Oversize → [Index](books/BookCase07/index.md)
 #### Shelf00: Maps, Travel, and Oversize
-
 
 ### BookCase08: Languages and Literature → [Index](books/BookCase08/index.md)
 #### Shelf00: Short Story, Essay, and Poetry Anthologies

@@ -1,4 +1,4 @@
-*Location:* `BookCase03 / Shelf05`  
-*Scope:* Law Summaries and References
+*Location:* `BookCase05 / Shelf05`  
+*Scope:* Science Fiction
 
-![Shelf 5 photo](BookCase03Shelf05.jpg)
+![Shelf 5 photo](BookCase05Shelf05.jpg)

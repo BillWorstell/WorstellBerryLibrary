@@ -1,4 +1,4 @@
-*Location:* `BookCase03 / Shelf00`  
-*Scope:* Passover Haggadahs.
+*Location:* `BookCase05 / Shelf00`  
+*Scope:* Mathematics
 
-![Shelf 0 photo](BookCase03Shelf00.jpg)
+![Shelf 0 photo](BookCase05Shelf00.jpg)
