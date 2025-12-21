@@ -1,4 +1,4 @@
-*Location:* `BookCase03 / Shelf03`  
-*Scope:* Jewish Thought, Politics and History
+*Location:* `BookCase06 / Shelf02`  
+*Scope:* Mathematics, Statistics and Math History
 
-![Shelf 2 photo](BookCase03Shelf02.jpg)
+![Shelf 2 photo](BookCase06Shelf02.jpg)

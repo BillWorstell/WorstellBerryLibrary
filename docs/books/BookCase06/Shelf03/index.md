@@ -1,4 +1,3 @@
-*Location:* `BookCase03 / Shelf03`  
-*Scope:* Jewish Thought, Politics and History
-
-![Shelf 3 photo](BookCase03Shelf03.jpg)
+*Location:* `BookCase06 / Shelf03`  
+*Scope:* Physics
+![Shelf 3 photo](BookCase06Shelf03.jpg)

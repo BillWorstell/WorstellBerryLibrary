@@ -1,4 +1,4 @@
-*Location:* `BookCase03 / Shelf04`  
-*Scope:* Massachusetts Law and Business
+*Location:* `BookCase06 / Shelf04`  
+*Scope:* Chemistry and Biology
 
-![Shelf 4 photo](BookCase03Shelf04.jpg)
+![Shelf 4 photo](BookCase06Shelf04.jpg)

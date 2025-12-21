@@ -1,4 +1,4 @@
-*Location:* `BookCase03 / Shelf00`  
-*Scope:* Passover Haggadahs.
+*Location:* `BookCase06 / Shelf00`  
+*Scope:* Biology, Physiology, and Oversize
 
-![Shelf 0 photo](BookCase03Shelf00.jpg)
+![Shelf 0 photo](BookCase06Shelf00.jpg)

@@ -3,7 +3,6 @@
 ![BookCase05: *Scope:* Science and Mathematics](BookCase05.jpg)  
 
 ![Shelf00: Mathematics](Shelf00/BookCase05Shelf00.jpg)  
-![Shelf00: Mathematics](Shelf00/BookCase05Shelf00_Hidden.jpg)  
 ### Shelf00: Mathematics → [Index](Shelf00/index.md)
 
 ![Shelf01: Computer Science ](Shelf01/BookCase05Shelf01.jpg)   

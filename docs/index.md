@@ -42,6 +42,14 @@ search box in the header to jump straight to a title, author, ISBN, or note.
 #### Shelf04: Biology and Physical Anthropology
 #### Shelf05: Science Fiction
 
+### BookCase06: Science and Mathematics → [Index](books/BookCase05/index.md)
+#### Shelf00: Biology, Physiology, and Oversize
+#### Shelf01: Medicine, Imaging, and Technology History
+#### Shelf02: Mathematics, Statistics and Math History
+#### Shelf03: Physics
+#### Shelf04: Chemistry and Biology
+#### Shelf05: Science and Medicine History and Writing
+
 ### BookCase07: Maps, Travel, and Oversize → [Index](books/BookCase07/index.md)
 #### Shelf00: Maps, Travel, and Oversize
 
