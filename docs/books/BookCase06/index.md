@@ -1,6 +1,3 @@
-## BookCase05: *Scope:* Medicine, Math and Sciences->
-![BookCase05: *Scope:* Medicine, Math and Sciences](BookCase05.jpg)  
-
 ## BookCase06: Medicine, Math and Sciences->
 ![BookCase06: Medicine, Math and Sciences](BookCase06.jpg)  
 
