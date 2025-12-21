@@ -1,5 +1,5 @@
 
-## BookCase05: *Scope:* Mathematics->
+## BookCase05: *Scope:* Science and Mathematics->
 ![BookCase05: *Scope:* Science and Mathematics](BookCase05.jpg)  
 
 ![Shelf00: Mathematics](Shelf00/BookCase05Shelf00.jpg)  
